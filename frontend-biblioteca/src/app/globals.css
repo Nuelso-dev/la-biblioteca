@@ -1,0 +1,229 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@layer base {
+  *, ::after, ::before, ::backdrop, ::file-selector-button {
+    border-color: var(--border);
+  }
+
+  :focus, :focus-visible {
+    outline-color: var(--ring);
+  }
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+  h1, h2, h3, .font-serif-title {
+    font-family: var(--font-instrument-serif), Georgia, serif;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+}
+
+:root {
+  /* Archivo Editorial — Papel y tinta (60-30-10) */
+
+  --background: #FAF7F0; /* papel */
+  --foreground: #14120E; /* tinta */
+
+  --card: #FFFFFF;
+  --card-foreground: #14120E;
+
+  --popover: #FFFFFF;
+  --popover-foreground: #14120E;
+
+  --primary: #14120E; /* tinta como acción principal */
+  --primary-foreground: #FAF7F0;
+  --primary-hover: #2A2620;
+
+  --secondary: #F1EBDD; /* papel sombra */
+  --secondary-foreground: #14120E;
+
+  --muted: #F1EBDD;
+  --muted-foreground: #5C564C; /* tinta 50 */
+
+  --accent: #F6E7DC;
+  --accent-foreground: #B3402A; /* óxido */
+
+  --destructive: #B3402A; /* óxido */
+  --destructive-foreground: #FAF7F0;
+
+  --success: #4E8B3A;
+  --warning: #C08A2E;
+
+  --border: #DAD2C2; /* borde suave */
+  --input: #DAD2C2;
+  --ring: #B3402A;
+
+  --radius: 0rem;
+
+  /* Sidebar en tinta sólida (público colapsado y admin) */
+  --sidebar: #14120E;
+  --sidebar-foreground: #FAF7F0;
+  --sidebar-primary: #B3402A;
+  --sidebar-primary-foreground: #FAF7F0;
+  --sidebar-accent: #2A2620;
+  --sidebar-accent-foreground: #FAF7F0;
+  --sidebar-border: #2E2A24;
+  --sidebar-ring: #B3402A;
+
+  --chart-1: #B3402A;
+  --chart-2: #4E8B3A;
+  --chart-3: #C08A2E;
+  --chart-4: #5C564C;
+  --chart-5: #14120E;
+
+  /* Raw palette tokens (used by components instead of hardcoded hex) */
+  --paper: #FAF7F0;
+  --ink: #14120E;
+  --rust: #B3402A;
+  --rust-hover: #C84931;
+  --ink-soft: #2A2620;
+  --ink-deep: #171410;
+  --ink-raised: #201D18;
+  --ink-hover: #1E1B16;
+  --ink-line: #2E2A24;
+  --paper-dim: #C8C0B2;
+  --paper-muted: #B8B0A2;
+  --stone: #8C8275;
+  --stone-dim: #7A7266;
+  --stone-light: #8A8377;
+  --success-soft: #7FB069;
+  --paper-hover: #E8E0CE;
+  --tint-sage: #D9E2DA;
+  --tint-clay: #EFD9C7;
+  --tint-lavender: #DCD6E5;
+  --map-pin: #1a1a1a;
+  --map-pin-selected: #B5462E;
+  --map-pin-border: #FFFFFF;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-primary-hover: var(--primary-hover);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-rust: var(--rust);
+  --color-rust-hover: var(--rust-hover);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-deep: var(--ink-deep);
+  --color-ink-raised: var(--ink-raised);
+  --color-ink-hover: var(--ink-hover);
+  --color-ink-line: var(--ink-line);
+  --color-paper-dim: var(--paper-dim);
+  --color-paper-muted: var(--paper-muted);
+  --color-stone: var(--stone);
+  --color-stone-dim: var(--stone-dim);
+  --color-stone-light: var(--stone-light);
+  --color-success-soft: var(--success-soft);
+  --color-paper-hover: var(--paper-hover);
+  --color-tint-sage: var(--tint-sage);
+  --color-tint-clay: var(--tint-clay);
+  --color-tint-lavender: var(--tint-lavender);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: 0rem;
+  --radius-md: 0rem;
+  --radius-lg: 0rem;
+  --radius-xl: 0rem;
+  --radius-2xl: 0rem;
+
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --font-serif: var(--font-instrument-serif), Georgia, serif;
+  --font-sans: var(--font-plex-sans), system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
+  --font-heading: var(--font-serif);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --radius-3xl: 0rem;
+  --radius-4xl: 0rem;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+::selection {
+  background-color: var(--accent);
+  color: var(--accent-foreground);
+}
+
+/* Custom editorial scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}
+
+/* Admin panel: ~44px touch targets on small screens only; desktop is unchanged. */
+@media (width < 48rem) {
+  .admin-touch :is([data-slot="button"], [data-slot="select-trigger"], [data-slot="input"], [data-slot="select-nativo"], [data-slot="tabs-trigger"]) {
+    min-height: 2.75rem;
+  }
+  .admin-touch [data-slot="button"][data-size^="icon"] {
+    min-width: 2.75rem;
+  }
+}
+
+/* Utility for mobile sticky bottom bars */
+.pb-safe {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}

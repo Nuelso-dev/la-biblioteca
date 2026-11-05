@@ -1,0 +1,626 @@
+[
+  {
+    "id_libro": "5",
+    "titulo": "El principito",
+    "isbn": "9788498381498",
+    "portada": "el-principito.jpg"
+  },
+  {
+    "id_libro": "8",
+    "titulo": "Harry Potter y el Prisionero de Azkaban",
+    "isbn": "9788498384451",
+    "portada": "harry-potter-y-el-prisionero-de-azkaban.jpg"
+  },
+  {
+    "id_libro": "11",
+    "titulo": "Harry Potter y el Príncipe Mestizo",
+    "isbn": "9788498384512",
+    "portada": "harry-potter-y-el-principe-mestizo.jpg"
+  },
+  {
+    "id_libro": "9",
+    "titulo": "Harry Potter y el Cáliz de Fuego",
+    "isbn": "9788498384475",
+    "portada": "harry-potter-y-el-caliz-de-fuego.jpg"
+  },
+  {
+    "id_libro": "10",
+    "titulo": "Harry Potter y la Orden del Fénix",
+    "isbn": "9788498384499",
+    "portada": "harry-potter-y-la-orden-del-fenix.jpg"
+  },
+  {
+    "id_libro": "12",
+    "titulo": "Harry Potter y las Reliquias de la Muerte",
+    "isbn": "9788498384536",
+    "portada": "harry-potter-y-las-reliquias-de-la-muerte.jpg"
+  },
+  {
+    "id_libro": "14",
+    "titulo": "La Odisea",
+    "isbn": "9788424938369",
+    "portada": "la-odisea.jpg"
+  },
+  {
+    "id_libro": "13",
+    "titulo": "Heartstopper",
+    "isbn": "9788408257353",
+    "portada": "heartstopper.jpg"
+  },
+  {
+    "id_libro": "2",
+    "titulo": "Alas de sangre",
+    "isbn": "9788408276972",
+    "portada": "alas-de-sangre.jpg"
+  },
+  {
+    "id_libro": "3",
+    "titulo": "Damián",
+    "isbn": "9788419086171",
+    "portada": "damian.jpg"
+  },
+  {
+    "id_libro": "6",
+    "titulo": "Harry Potter y la Piedra Filosofal",
+    "isbn": "9788498384413",
+    "portada": "harry-potter-y-la-piedra-filosofal.jpg"
+  },
+  {
+    "id_libro": "1",
+    "titulo": "1984",
+    "isbn": "9788499890944",
+    "portada": "1984.jpg"
+  },
+  {
+    "id_libro": "38",
+    "titulo": "El idiota",
+    "isbn": "9788420677200",
+    "portada": "el-idiota.jpg"
+  },
+  {
+    "id_libro": "18",
+    "titulo": "Cien años de soledad",
+    "isbn": "9788420471839",
+    "portada": "cien-anos-de-soledad.jpg"
+  },
+  {
+    "id_libro": "16",
+    "titulo": "Sigue mi voz",
+    "isbn": "9788420462158",
+    "portada": "sigue-mi-voz.jpg"
+  },
+  {
+    "id_libro": "21",
+    "titulo": "La casa de los espíritus",
+    "isbn": "9788401352836",
+    "portada": "la-casa-de-los-espiritus.jpg"
+  },
+  {
+    "id_libro": "17",
+    "titulo": "La mujer de negro",
+    "isbn": "9788435017251",
+    "portada": "la-mujer-de-negro.jpg"
+  },
+  {
+    "id_libro": "26",
+    "titulo": "Carrie",
+    "isbn": "9788401358937",
+    "portada": "carrie.jpg"
+  },
+  {
+    "id_libro": "28",
+    "titulo": "Asesinato en el Orient Express",
+    "isbn": "9788467043778",
+    "portada": "asesinato-en-el-orient-express.jpg"
+  },
+  {
+    "id_libro": "32",
+    "titulo": "Bestiario",
+    "isbn": "9788437605616",
+    "portada": "bestiario.jpg"
+  },
+  {
+    "id_libro": "36",
+    "titulo": "El Zahir",
+    "isbn": "9788408162728",
+    "portada": "el-zahir.jpg"
+  },
+  {
+    "id_libro": "31",
+    "titulo": "Rayuela",
+    "isbn": "9788420462653",
+    "portada": "rayuela.jpg"
+  },
+  {
+    "id_libro": "15",
+    "titulo": "Nosotros en la luna",
+    "isbn": "9788408223341",
+    "portada": "nosotros-en-la-luna.jpg"
+  },
+  {
+    "id_libro": "37",
+    "titulo": "Crimen y castigo",
+    "isbn": "9788420673714",
+    "portada": "crimen-y-castigo.jpg"
+  },
+  {
+    "id_libro": "35",
+    "titulo": "El Alquimista",
+    "isbn": "9788408052944",
+    "portada": "el-alquimista.jpg"
+  },
+  {
+    "id_libro": "34",
+    "titulo": "La fiesta del Chivo",
+    "isbn": "9788420467887",
+    "portada": "la-fiesta-del-chivo.jpg"
+  },
+  {
+    "id_libro": "33",
+    "titulo": "La ciudad y los perros",
+    "isbn": "9788420463681",
+    "portada": "la-ciudad-y-los-perros.jpg"
+  },
+  {
+    "id_libro": "30",
+    "titulo": "El asesinato de Roger Ackroyd",
+    "isbn": "9788467053029",
+    "portada": "el-asesinato-de-roger-ackroyd.jpg"
+  },
+  {
+    "id_libro": "29",
+    "titulo": "Y no quedó ninguno",
+    "isbn": "9788467044058",
+    "portada": "y-no-quedo-ninguno.jpg"
+  },
+  {
+    "id_libro": "27",
+    "titulo": "La milla verde",
+    "isbn": "9788401373183",
+    "portada": "la-milla-verde.jpg"
+  },
+  {
+    "id_libro": "25",
+    "titulo": "Misery",
+    "isbn": "9788401337482",
+    "portada": "misery.jpg"
+  },
+  {
+    "id_libro": "24",
+    "titulo": "El resplandor",
+    "isbn": "9788401354120",
+    "portada": "el-resplandor.jpg"
+  },
+  {
+    "id_libro": "23",
+    "titulo": "It",
+    "isbn": "9788401352980",
+    "portada": "it.jpg"
+  },
+  {
+    "id_libro": "22",
+    "titulo": "Eva Luna",
+    "isbn": "9788490707890",
+    "portada": "eva-luna.jpg"
+  },
+  {
+    "id_libro": "20",
+    "titulo": "Crónica de una muerte anunciada",
+    "isbn": "9788420455877",
+    "portada": "cronica-de-una-muerte-anunciada.jpg"
+  },
+  {
+    "id_libro": "19",
+    "titulo": "El amor en los tiempos del cólera",
+    "isbn": "9788420474489",
+    "portada": "el-amor-en-los-tiempos-de-colera.jpg"
+  },
+  {
+    "id_libro": "49",
+    "titulo": "El Aleph",
+    "isbn": "9788420412443",
+    "portada": "el-aleph.jpg"
+  },
+  {
+    "id_libro": "50",
+    "titulo": "La sombra del viento",
+    "isbn": "9788408163497",
+    "portada": "la-sombra-del-viento.jpg"
+  },
+  {
+    "id_libro": "51",
+    "titulo": "El juego del ángel",
+    "isbn": "9788408089087",
+    "portada": "el-juego-del-angel.jpg"
+  },
+  {
+    "id_libro": "53",
+    "titulo": "La tabla de Flandes",
+    "isbn": "9788420416014",
+    "portada": "la-tabla-de-flandes.jpg"
+  },
+  {
+    "id_libro": "52",
+    "titulo": "El capitán Alatriste",
+    "isbn": "9788420400730",
+    "portada": "el-capitan-alatriste.jpg"
+  },
+  {
+    "id_libro": "54",
+    "titulo": "Los pilares de la Tierra",
+    "isbn": "9788401379116",
+    "portada": "los-pilares-de-la-tierra.jpg"
+  },
+  {
+    "id_libro": "56",
+    "titulo": "El código Da Vinci",
+    "isbn": "9788408175681",
+    "portada": "el-codigo-da-vinci.jpg"
+  },
+  {
+    "id_libro": "55",
+    "titulo": "Un mundo sin fin",
+    "isbn": "9788401351822",
+    "portada": "un-mundo-sin-fin.jpg"
+  },
+  {
+    "id_libro": "64",
+    "titulo": "Reminders of Him",
+    "isbn": "9788408271888",
+    "portada": "reminders-of-him.jpg"
+  },
+  {
+    "id_libro": "66",
+    "titulo": "Un mal nombre",
+    "isbn": "9788433979421",
+    "portada": "un-mal-nombre.jpg"
+  },
+  {
+    "id_libro": "65",
+    "titulo": "La amiga estupenda",
+    "isbn": "9788433979414",
+    "portada": "la-amiga-estupenda.jpg"
+  },
+  {
+    "id_libro": "62",
+    "titulo": "Ugly Love",
+    "isbn": "9788408282860",
+    "portada": "ugly-love.jpg"
+  },
+  {
+    "id_libro": "63",
+    "titulo": "Nunca, Nunca",
+    "isbn": "9788408271871",
+    "portada": "nunca-nunca.jpg"
+  },
+  {
+    "id_libro": "61",
+    "titulo": "Confess",
+    "isbn": "9788408282846",
+    "portada": "confess.jpg"
+  },
+  {
+    "id_libro": "60",
+    "titulo": "Ciudades de papel",
+    "isbn": "9788415729778",
+    "portada": "ciudades-de-papel.jpg"
+  },
+  {
+    "id_libro": "59",
+    "titulo": "Bajo la misma estrella",
+    "isbn": "9788415729273",
+    "portada": "bajo-la-misma-estrella.jpg"
+  },
+  {
+    "id_libro": "58",
+    "titulo": "Inferno",
+    "isbn": "9788408193081",
+    "portada": "inferno.jpg"
+  },
+  {
+    "id_libro": "57",
+    "titulo": "Ángeles y demonios",
+    "isbn": "9788408177272",
+    "portada": "angeles-y-demonios.jpg"
+  },
+  {
+    "id_libro": "48",
+    "titulo": "Ficciones",
+    "isbn": "9788420400952",
+    "portada": "ficciones.jpg"
+  },
+  {
+    "id_libro": "47",
+    "titulo": "Al faro",
+    "isbn": "9788437603087",
+    "portada": "al-faro.jpg"
+  },
+  {
+    "id_libro": "46",
+    "titulo": "La señora Dalloway",
+    "isbn": "9788437602974",
+    "portada": "la-senora-dalloway.jpg"
+  },
+  {
+    "id_libro": "44",
+    "titulo": "El viejo y el mar",
+    "isbn": "9788420641591",
+    "portada": "el-viejo-y-el-mar.jpg"
+  },
+  {
+    "id_libro": "43",
+    "titulo": "El proceso",
+    "isbn": "9788420673608",
+    "portada": "el-proceso.jpg"
+  },
+  {
+    "id_libro": "42",
+    "titulo": "La metamorfosis",
+    "isbn": "9788420633794",
+    "portada": "la-metamorfosis.jpg"
+  },
+  {
+    "id_libro": "41",
+    "titulo": "Ana Karénina",
+    "isbn": "9788420679082",
+    "portada": "ana-karenina.jpg"
+  },
+  {
+    "id_libro": "40",
+    "titulo": "Guerra y paz",
+    "isbn": "9788420673820",
+    "portada": "guerra-y-paz.jpg"
+  },
+  {
+    "id_libro": "70",
+    "titulo": "Pedro Páramo",
+    "isbn": "9786071108623",
+    "portada": "pedro-paramo.jpg"
+  },
+  {
+    "id_libro": "71",
+    "titulo": "Un mundo feliz",
+    "isbn": "9780060850524",
+    "portada": "un-mundo-feliz.jpg"
+  },
+  {
+    "id_libro": "73",
+    "titulo": "El guardián entre el centeno",
+    "isbn": "9780316769174",
+    "portada": "el-guardian-entre-el-centeno.jpg"
+  },
+  {
+    "id_libro": "74",
+    "titulo": "El gran Gatsby",
+    "isbn": "9780743273565",
+    "portada": "el-gran-gatsby.jpg"
+  },
+  {
+    "id_libro": "75",
+    "titulo": "En busca del tiempo perdido",
+    "isbn": "9788420651323",
+    "portada": "en-busca-del-tiempo-perdido.jpg"
+  },
+  {
+    "id_libro": "76",
+    "titulo": "Ulysses",
+    "isbn": "9781840226355",
+    "portada": "ulysses.jpg"
+  },
+  {
+    "id_libro": "77",
+    "titulo": "Matar a un ruiseñor",
+    "isbn": "9780060935467",
+    "portada": "matar-a-un-ruisenor.jpg"
+  },
+  {
+    "id_libro": "78",
+    "titulo": "Los miserables",
+    "isbn": "9788467034059",
+    "portada": "los-miserables.jpg"
+  },
+  {
+    "id_libro": "79",
+    "titulo": "La Divina Comedia",
+    "isbn": "9788420665474",
+    "portada": "la-divina-comedia.jpg"
+  },
+  {
+    "id_libro": "80",
+    "titulo": "Hamlet",
+    "isbn": "9788420651262",
+    "portada": "hamlet.jpg"
+  },
+  {
+    "id_libro": "82",
+    "titulo": "Frankenstein",
+    "isbn": "9788420651309",
+    "portada": "frankenstein.jpg"
+  },
+  {
+    "id_libro": "83",
+    "titulo": "Drácula",
+    "isbn": "9788420651316",
+    "portada": "dracula.jpg"
+  },
+  {
+    "id_libro": "84",
+    "titulo": "Sapiens: De animales a dioses",
+    "isbn": "9788499926223",
+    "portada": "sapiens-de-animales-a-dioses.jpg"
+  },
+  {
+    "id_libro": "85",
+    "titulo": "21 lecciones para el siglo XXI",
+    "isbn": "9788411070621",
+    "portada": "21-lecciones-para-el-siglo-xxi.jpg"
+  },
+  {
+    "id_libro": "86",
+    "titulo": "Breve historia del tiempo",
+    "isbn": "9788464243621",
+    "portada": "breve-historia-del-tiempo.jpg"
+  },
+  {
+    "id_libro": "87",
+    "titulo": "Cosmos",
+    "isbn": "9788408053071",
+    "portada": "cosmos.jpg"
+  },
+  {
+    "id_libro": "88",
+    "titulo": "El origen de las especies",
+    "isbn": "9788464243622",
+    "portada": "el-origen-de-las-especies.jpg"
+  },
+  {
+    "id_libro": "89",
+    "titulo": "La riqueza de las naciones",
+    "isbn": "9788464243623",
+    "portada": "la-riqueza-de-las-naciones.jpg"
+  },
+  {
+    "id_libro": "90",
+    "titulo": "El capital",
+    "isbn": "9788464243624",
+    "portada": "el-capital.jpg"
+  },
+  {
+    "id_libro": "91",
+    "titulo": "Así habló Zaratustra",
+    "isbn": "9788464243625",
+    "portada": "asi-hablo-zaratustra.jpg"
+  },
+  {
+    "id_libro": "93",
+    "titulo": "Meditaciones",
+    "isbn": "9788464243627",
+    "portada": "meditaciones.jpg"
+  },
+  {
+    "id_libro": "94",
+    "titulo": "El arte de la guerra",
+    "isbn": "9788464243628",
+    "portada": "el-arte-de-la-guerra.jpg"
+  },
+  {
+    "id_libro": "95",
+    "titulo": "El príncipe",
+    "isbn": "9788464243629",
+    "portada": "el-principe.jpg"
+  },
+  {
+    "id_libro": "96",
+    "titulo": "Leviatán",
+    "isbn": "9788464243630",
+    "portada": "leviatan.jpg"
+  },
+  {
+    "id_libro": "97",
+    "titulo": "El contrato social",
+    "isbn": "9788464243631",
+    "portada": "el-contrato-social.jpg"
+  },
+  {
+    "id_libro": "99",
+    "titulo": "Ética a Nicómaco",
+    "isbn": "9788464243633",
+    "portada": "etica-a-nicomaco.jpg"
+  },
+  {
+    "id_libro": "98",
+    "titulo": "La República",
+    "isbn": "9788464243632",
+    "portada": "la-republica.jpg"
+  },
+  {
+    "id_libro": "100",
+    "titulo": "Los juegos del hambre",
+    "isbn": "9788427202122",
+    "portada": "los-juegos-del-hambre.jpg"
+  },
+  {
+    "id_libro": "101",
+    "titulo": "Divergente",
+    "isbn": "9788427201187",
+    "portada": "divergente.jpg"
+  },
+  {
+    "id_libro": "68",
+    "titulo": "Moby Dick",
+    "isbn": "9788467033649",
+    "portada": "moby-dick.jpg"
+  },
+  {
+    "id_libro": "306",
+    "titulo": "Soy el rey del castillo",
+    "isbn": "9788435010788",
+    "portada": "soy-el-rey-del-castillo.jpg"
+  },
+  {
+    "id_libro": "39",
+    "titulo": "Los hermanos Karamázov",
+    "isbn": "9788420675244",
+    "portada": "los-hermanos-karamazov.jpg"
+  },
+  {
+    "id_libro": "72",
+    "titulo": "Fahrenheit 451",
+    "isbn": "9781451673319",
+    "portada": "fahrenheit-451.jpg"
+  },
+  {
+    "id_libro": "303",
+    "titulo": "Al final mueren los dos",
+    "isbn": "9789585986237",
+    "portada": "al-final-mueren-los-dos.jpg\n"
+  },
+  {
+    "id_libro": "81",
+    "titulo": "El retrato de Dorian Gray",
+    "isbn": "9788420651279",
+    "portada": "el-retrato-de-dorian-gray.jpg"
+  },
+  {
+    "id_libro": "92",
+    "titulo": "Crítica de la razón pura",
+    "isbn": "9788464243626",
+    "portada": "critica-de-la-razon-pura.jpg"
+  },
+  {
+    "id_libro": "7",
+    "titulo": "Harry Potter y la Cámara de los Secretos",
+    "isbn": "9788498384437",
+    "portada": "harry-potter-y-la-camara-de-los-secretos.jpg"
+  },
+  {
+    "id_libro": "4",
+    "titulo": "Don Quijote de la Mancha",
+    "isbn": "9788420412146",
+    "portada": "don-quijote-de-la-mancha.jpg"
+  },
+  {
+    "id_libro": "304",
+    "titulo": "Caraval",
+    "isbn": "9788492918188",
+    "portada": "caraval.jpg\n\n\n"
+  },
+  {
+    "id_libro": "305",
+    "titulo": "La Asistenta",
+    "isbn": "9788491294283",
+    "portada": "la-asistenta.jpg"
+  },
+  {
+    "id_libro": "67",
+    "titulo": "Orgullo y prejuicio",
+    "isbn": "9788420673882",
+    "portada": "orgullo-y-prejuicio.jpg"
+  },
+  {
+    "id_libro": "45",
+    "titulo": "Por quién doblan las campanas",
+    "isbn": "9788420648705",
+    "portada": "por-quien-doblan-las-campanas.jpg"
+  }
+]

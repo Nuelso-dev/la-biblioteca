@@ -1,0 +1,244 @@
+# Autor|Categoría (código)|año inicial-año final de su obra|Editorial (opcional)|títulos separados por ; (~CÓDIGO cambia la categoría; {a..b} expande una serie)
+# Años aproximados: sirven para fechar la edición simulada de cada título.
+José Eustasio Rivera|N|1924-1924|Panamericana Editorial|La vorágine
+Gabriel García Márquez|N|1955-2004|Debolsillo|La mala hora;El general en su laberinto;Vivir para contarla~BI;Los funerales de la Mamá Grande~CU;Del amor y otros demonios;El coronel no tiene quien le escriba;Memoria de mis putas tristes;El otoño del patriarca;La hojarasca;Noticia de un secuestro~EN;Relato de un náufrago~EN;Ojos de perro azul~CU;Doce cuentos peregrinos~CU;Textos costeños~EN;Crónicas y reportajes~EN;Yo no vengo a decir un discurso~EN
+Álvaro Mutis|N|1986-1993|Alfaguara|La nieve del almirante;Ilona llega con la lluvia;Un bel morir;La última escala del Tramp Steamer;Abdul Bashur, soñador de navíos;Amirbar;Summa de Maqroll el Gaviero~PO
+Fernando Vallejo|N|1994-2010|Alfaguara|La virgen de los sicarios;El desbarrancadero;La Rambla paralela;Los días azules~BI;El fuego secreto;Barba Jacob el mensajero~BI;Chapolas negras;Casablanca la bella;Mi hermano el alcalde~BI;Logoi~EN
+William Ospina|N|2005-2015|Literatura Random House|Ursúa;El país de la canela;La serpiente sin ojos;Pa que se acabe la vaina~EN;Los nuevos centros de la esfera~EN;Las auroras de sangre~PO
+Laura Restrepo|N|1989-2012|Alfaguara|La isla de la pasión;Delirio;Olor a rosas invisibles;La multitud errante;Hot sur;Demasiados héroes;La novia oscura;Pecado;Leopardo al sol;Los divinos
+Héctor Abad Faciolince|N|1994-2014|Alfaguara|El olvido que seremos~BI;Basura;Angosta;La oculta;Traiciones de la memoria~BI;Tratado de culinaria para mujeres tristes;Fragmentos de amor furtivo;Oblivion~BI
+Juan Gabriel Vásquez|N|2004-2020|Alfaguara|Los informantes;Historia secreta de Costaguana;El ruido de las cosas al caer;Las reputaciones;La forma de las ruinas;Volver la vista atrás~EN;Canciones para el incendio~CU;Los amantes de todos los santos~CU
+Tomás González|N|1983-2017|Alfaguara|Primero estaban las ilusiones;La historia de Horacio;Abraham entre bandidos;Los caballitos del diablo
+Piedad Bonnett|PO|1995-2013|Alfaguara|Nadie en casa;Las herencias;Explicación de los hechos;Lo que no tiene nombre~BI;Después de todo;Siempre fue invierno~N;Donde nunca pasa nada~N
+Jorge Franco|N|1999-2015|Alfaguara|Rosario Tijeras;Paraíso Travel;Melodrama;El mundo de afuera;Santa Suerte;Maldito amor
+Santiago Gamboa|N|1995-2012|Seix Barral|Perder es cuestión de método;Necrópolis;Los impostores;Plegarias nocturnas;Vida feliz de un joven llamado Esteban
+Evelio Rosero|N|1992-2012|Tusquets|Los ejércitos;La carroza de Bolívar;En el lejero;El incendiado
+Mario Mendoza|N|2002-2015|Planeta|Satanás;Scorpio City;Buda Blues;Cobro de sangre;La ciudad de los umbrales;Apocalipsis;Lady Masacre
+Laura Esquivel|N|1989-2001|Penguin Random House|Como agua para chocolate;La ley del amor;Tan veloz como el deseo;Íntimas suculencias;Malinche
+Isabel Allende|N|1982-2019|Debolsillo|Hija de la fortuna;Retrato en sepia;La ciudad de las bestias~JU;Zorro;Inés del alma mía;El plan infinito;Mi país inventado~EN;De amor y de sombra;Ripper~MS;El reino del dragón de oro~JU;El bosque de los pigmeos~JU;Afrodita~GH;La suma de los días~BI;El cuaderno de Maya;Largo pétalo de mar;Violeta;Más allá del invierno;Eva Luna cuenta~CU
+Mario Vargas Llosa|N|1963-2021|Alfaguara|Los jefes~CU;Los cachorros~CU;Elogio de la madrastra;El hablador;Lituma en los Andes;El paraíso en la otra esquina;El sueño del celta;Cinco esquinas;Tiempos recios;La tía Julia y el escribidor;La guerra del fin del mundo;Historia de Mayta;¿Quién mató a Palomino Molero?;La verdad de las mentiras~EN;La civilización del espectáculo~EN;Conversación en La Catedral;La casa verde;Travesuras de la niña mala;Pantaleón y las visitadoras;El pez en el agua~BI;Los cuadernos de don Rigoberto;La llamada de la tribu~EN;Dos crónicas~EN;Le dedico mi silencio
+Julio Cortázar|N|1956-1984|Alfaguara|62 Modelo para armar;Los premios;Libro de Manuel;Octaedro~CU;Todos los fuegos el fuego~CU;La vuelta al día en ochenta mundos~EN;Queremos tanto a Glenda~CU;Deshoras~CU;Alguien que anda por ahí~CU;Un tal Lucas;Último round~EN;Salvo el crepúsculo~PO
+Jorge Luis Borges|CU|1935-1985|Alianza Editorial|El informe de Brodie;El libro de arena;Historia universal de la infamia;Otras inquisiciones~EN;Fervor de Buenos Aires~PO;El hacedor;Libro de los seres imaginarios;Historia de la eternidad~EN;Discusión~EN;El oro de los tigres~PO;La rosa profunda~PO;Siete noches~EN;Obra poética~PO;Elogio de la sombra~PO
+Roberto Bolaño|N|1993-2010|Anagrama|Amuleto;Los sinsabores del verdadero policía;La literatura nazi en América;Llamadas telefónicas~CU;El tercer Reich;Monsieur Pain;Una novelita lumpen;Putas asesinas~CU;La pista de hielo;Nocturno de Chile;Entre paréntesis~EN;El gaucho insufrible~CU;Los perros románticos~PO
+Ernesto Sabato|N|1948-2000|Seix Barral|Abaddón el exterminador;Antes del fin~BI;La resistencia~EN;Uno y el universo~EN;Hombres y engranajes~EN;Apologías y rechazos~EN
+Carlos Fuentes|N|1958-2008|Alfaguara|La muerte de Artemio Cruz;Aura;Terra Nostra;Gringo viejo;La región más transparente;Los años con Laura Díaz;Los cinco soles de México~HI;Cambio de piel;Cristóbal Nonato;La silla del águila;Todas las familias felices;El espejo enterrado~HI;Constancia y otras novelas para vírgenes
+Octavio Paz|PO|1950-1998|Seix Barral|Piedra de sol;El arco y la lira~EN;Libertad bajo palabra;Sor Juana Inés de la Cruz o Las trampas de la fe~BI;Los hijos del limo~EN;Ladera este;Árbol adentro;Blanco;Conjunciones y disyunciones~EN;Postdata~EN
+Juan Rulfo|CU|1953-1980|Editorial RM|El gallo de oro;Toda la obra;Los cuadernos de Juan Rulfo~EN
+Jorge Amado|N|1935-1990|Alfaguara|Doña Flor y sus dos maridos;Gabriela, clavo y canela;Tieta de Agreste;Capitanes de la arena;Tierras del sinfín;Los viejos marineros;La muerte y la muerte de Quincas Berro Dagua;Teresa Batista cansada de guerra
+Paulo Coelho|N|1987-2020|Planeta|Brida;Veronika decide morir;Diario de un mago~BI;Once minutos;El demonio y la señorita Prym;La Bruja de Portobello;El vencedor está solo;Aleph;Manuscrito encontrado en Accra;Adulterio;La espía;El peregrino de Compostela~BI;Las Valquirias;Maktub~RE;El manual del guerrero de la luz~RE;Hippie;El Archivo de Aleph
+José Saramago|N|1982-2009|Alfaguara|Memorial del convento;El evangelio según Jesucristo;Ensayo sobre la lucidez;El año de la muerte de Ricardo Reis;La caverna;Todos los nombres;La balsa de piedra;El hombre duplicado;Las intermitencias de la muerte;El viaje del elefante;Caín;Levantado del suelo;Historia del cerco de Lisboa;Las pequeñas memorias~BI;Cuadernos de Lanzarote~BI
+Milan Kundera|N|1967-2000|Tusquets|La insoportable levedad del ser;La broma;El libro de la risa y el olvido;La inmortalidad;La identidad;La ignorancia;La lentitud;El arte de la novela~EN;La vida está en otra parte;El libro de los amores ridículos~CU;El telón~EN;Los testamentos traicionados~EN
+Umberto Eco|N|1965-2015|Lumen|El péndulo de Foucault;La isla del día de antes;Baudolino;El cementerio de Praga;Número cero;Apocalípticos e integrados~EN;Cómo se hace una tesis~ED;Historia de la belleza~AA;Obra abierta~EN;Tratado de semiótica general~IL;Seis paseos por los bosques narrativos~EN;La misteriosa llama de la reina Loana;Historia de la fealdad~AA
+Italo Calvino|N|1947-1985|Siruela|El barón rampante;El vizconde demediado;El caballero inexistente;Si una noche de invierno un viajero;Las ciudades invisibles;Seis propuestas para el próximo milenio~EN;El sendero de los nidos de araña;Palomar;Por qué leer a los clásicos~EN;Cosmicómicas~CU;Marcovaldo~CU;El castillo de los destinos cruzados;Fábulas italianas~IN
+Elena Ferrante|N|1992-2019|Lumen|Los días del abandono;La hija oscura;La niña perdida;Historia de quien huye y de quien se queda;Un mal nombre;La frantumaglia~EN;La vida mentirosa de los adultos;Historia del nuevo apellido;Las deudas del cuerpo
+Haruki Murakami|N|1979-2021|Tusquets|1Q84;Crónica del pájaro que da cuerda al mundo;Sputnik, mi amor;Baila baila baila;Al sur de la frontera, al oeste del sol;Sauce ciego, mujer dormida~CU;De qué hablo cuando hablo de correr~EN;After Dark;Los años de peregrinación del chico sin color;Underground~EN;La muerte del comendador;Primera persona del singular~CU;Escucha la canción del viento;Pinball 1973;Hombres sin mujeres~CU;Tokio blues;Kafka en la orilla;Los hombres sin mujeres~CU;La ciudad y sus muros inciertos
+Kazuo Ishiguro|N|1982-2021|Anagrama|Lo que queda del día;Nunca me abandones;Los inconsolables;Pálida luz en las colinas;Klara y el sol;El gigante enterrado;Nocturnos~CU;Un artista del mundo flotante
+Orhan Pamuk|N|1990-2014|Penguin Random House|Me llamo Rojo;Nieve;El libro negro;El museo de la inocencia;Estambul~BI;El castillo blanco;Una sensación extraña;La mujer del pelo rojo
+Yasunari Kawabata|N|1948-1961|Alianza Editorial|País de nieve;Mil grullas;La casa de las bellas durmientes;El maestro de go;Kioto
+Yukio Mishima|N|1949-1966|Alianza Editorial|Confesiones de una máscara;El marino que perdió la gracia del mar;El pabellón de oro;Sol y acero~EN;Después del banquete
+Amélie Nothomb|N|1992-2019|Anagrama|Estupor y temblores;Metafísica de los tubos;Higiene del asesino;Biografía del hambre~BI;Ácido sulfúrico;Ni de Eva ni de Adán;Barba azul;Sed;Los catilinarios
+Albert Camus|N|1942-1956|Alianza Editorial|El extranjero;La peste;La caída;El mito de Sísifo~FP;El hombre rebelde~FP;El primer hombre;El exilio y el reino~CU;Calígula~TE;Los justos~TE;Bodas y El verano~EN;Cartas a un amigo alemán~EN
+Jean-Paul Sartre|N|1938-1964|Losada|La náusea;El muro~CU;El ser y la nada~FP;A puerta cerrada~TE;Las palabras~BI;El existencialismo es un humanismo~FP;Las moscas~TE;Las manos sucias~TE;La edad de la razón;Crítica de la razón dialéctica~FP
+Simone de Beauvoir|N|1943-1970|Debolsillo|El segundo sexo~CS;Los mandarines;La invitada;Memorias de una joven formal~BI;La mujer rota~CU;La vejez~CS;La ceremonia del adiós~BI
+Hermann Hesse|N|1904-1943|Alianza Editorial|Siddhartha;El lobo estepario;Demian;Narciso y Goldmundo;El juego de los abalorios;Bajo la rueda;Knulp;Peter Camenzind;Viaje a Oriente;Gertrudis;Rosshalde
+Thomas Mann|N|1901-1947|Edhasa|La montaña mágica;Muerte en Venecia;Los Buddenbrook;Doctor Faustus;Tonio Kröger~CU;José y sus hermanos;Mario y el mago~CU
+Stefan Zweig|N|1922-1942|Acantilado|Veinticuatro horas en la vida de una mujer;Carta de una desconocida~CU;Novela de ajedrez;El mundo de ayer~BI;La impaciencia del corazón;Momentos estelares de la humanidad~HI;María Antonieta~BI;Fouché~BI;Magallanes~BI;Brasil, país del futuro~EN
+Günter Grass|N|1959-2002|Alfaguara|El tambor de hojalata;El gato y el ratón;Años de perro;El rodaballo;Pelando la cebolla~BI;Es cuento largo
+Erich Maria Remarque|N|1929-1954|Edhasa|Sin novedad en el frente;El arco de triunfo;Tiempo de vivir, tiempo de morir;Tres camaradas;La noche de Lisboa;El camino de vuelta;Chispa de vida
+Heinrich Böll|N|1953-1974|Seix Barral|El honor perdido de Katharina Blum;Opiniones de un payaso;Y no dijo ni una sola palabra;Retrato de grupo con señora;Billar a las nueve y media
+Fiódor Dostoievski|N|1846-1880|Alianza Editorial|Memorias del subsuelo;Noches blancas;Los demonios;El jugador;Humillados y ofendidos;Pobres gentes;El doble;Memorias de la casa muerta;El adolescente;El eterno marido;Diario de un escritor~EN
+Lev Tolstói|N|1852-1899|Alianza Editorial|La muerte de Iván Ilich;Resurrección;Los cosacos;La sonata a Kreutzer;Hadjí Murat;Infancia, adolescencia, juventud~BI;Felicidad conyugal;El diablo;Padre Sergio;Cuentos completos~CU;Confesión~RE
+Antón Chéjov|CU|1886-1904|Alianza Editorial|La dama del perrito;El jardín de los cerezos~TE;Tío Vania~TE;Las tres hermanas~TE;La gaviota~TE;Pabellón número 6;El beso y otros cuentos;El duelo;La estepa~N;Cuentos escogidos
+Nikolái Gógol|N|1835-1852|Alianza Editorial|Almas muertas;El capote~CU;La nariz~CU;Taras Bulba;El inspector~TE;Diario de un loco~CU;Veladas en una granja
+Mijaíl Bulgákov|N|1925-1967|Alianza Editorial|El maestro y Margarita;Corazón de perro;La guardia blanca;Memorias de un joven médico~CU;Los huevos fatales~CF;Morfina;Novela teatral
+Borís Pasternak|N|1957-1957|Anagrama|Doctor Zhivago
+Aleksandr Solzhenitsyn|N|1962-1973|Tusquets|Un día en la vida de Iván Denísovich;Archipiélago Gulag~HI;Pabellón de cáncer;El primer círculo;La casa de Matriona~CU
+Iván Turguénev|N|1852-1862|Alianza Editorial|Padres e hijos;Un mes en el campo~TE;Primer amor;Rudin;Nido de hidalgos;Aguas primaverales
+Antonio Tabucchi|N|1994-1994|Anagrama|Réquiem;Nocturno hindú;Tristano muere;Los últimos tres días de Fernando Pessoa
+Vladimir Nabokov|N|1926-1969|Anagrama|Pálido fuego;Ada o el ardor;Pnin;Habla, memoria~BI;La defensa;Risa en la oscuridad;Desesperación;Hazaña;El ojo
+Victor Hugo|N|1831-1874|Alianza Editorial|Nuestra Señora de París;El hombre que ríe;Noventa y tres;Los trabajadores del mar;Hernani~TE;El último día de un condenado;Bug-Jargal;Cromwell~TE
+Honoré de Balzac|N|1830-1847|Alianza Editorial|El padre Goriot;Eugenia Grandet;La prima Bette;Las ilusiones perdidas;La piel de zapa;Úrsula Mirouët;Papá Goriot;El coronel Chabert;Esplendores y miserias de las cortesanas;La comedia humana
+Émile Zola|N|1871-1893|Alianza Editorial|Germinal;Nana;La taberna;La bestia humana;El vientre de París;Yo acuso~EN;La obra;Thérèse Raquin
+Alexandre Dumas|N|1844-1870|Alianza Editorial|Veinte años después;El vizconde de Bragelonne;La reina Margot;El collar de la reina;La tulipa negra;El caballero de Maison-Rouge;Los hermanos corsos;Ángel Pitou
+Gustave Flaubert|N|1857-1881|Alianza Editorial|La educación sentimental;Salambó;Bouvard y Pécuchet;Tres cuentos~CU;Un corazón sencillo~CU;La tentación de san Antonio;Diccionario de lugares comunes
+Guy de Maupassant|CU|1880-1890|Alianza Editorial|Bola de sebo;Bel Ami~N;Una vida~N;El Horla~TR;Mont-Oriol~N;Cuentos completos;Fuerte como la muerte~N;Pedro y Juan~N
+Julio Verne|N|1863-1905|Alianza Editorial|De la Tierra a la Luna~CF;Viaje al centro de la Tierra~CF;La isla misteriosa;Miguel Strogoff;Cinco semanas en globo;Los hijos del capitán Grant;Alrededor de la Luna~CF;Los quinientos millones de la Begún~CF;El rayo verde;Un capitán de quince años;Héctor Servadac~CF;Robur el conquistador~CF;Las tribulaciones de un chino en China;Matías Sandorf;La jangada
+Charles Dickens|N|1837-1870|Alba Editorial|David Copperfield;Historia de dos ciudades;La pequeña Dorrit;Tiempos difíciles;Casa desolada;Nicholas Nickleby;Las aventuras del Sr. Pickwick;Dombey e hijo;Nuestro amigo común;El misterio de Edwin Drood~MS;La tienda de antigüedades;Barnaby Rudge;Cuentos de Navidad~CU
+Thomas Hardy|N|1874-1895|Alba Editorial|Tess de los d'Urberville;Lejos del mundanal ruido;Judas el oscuro;El alcalde de Casterbridge;El regreso del nativo;Bajo el árbol del bosque;Los habitantes del bosque
+George Eliot|N|1859-1876|Alba Editorial|Middlemarch;El molino junto al Floss;Silas Marner;Adam Bede;Daniel Deronda;Romola
+Elizabeth Gaskell|N|1848-1865|Alba Editorial|Norte y Sur;Cranford;Mary Barton;Esposas e hijas;Ruth
+Louisa May Alcott|N|1868-1886|Alba Editorial|Hombrecitos~JU;Los muchachos de Jo~JU;Un viejo cuento~JU;Pequeñas mujeres~JU;Ocho primos~JU;Rosa en flor~JU
+Mark Twain|N|1865-1889|Alba Editorial|Las aventuras de Tom Sawyer~JU;Las aventuras de Huckleberry Finn~JU;El príncipe y el mendigo~JU;Un yanqui en la corte del rey Arturo~CF;Vida en el Misisipi~BI;El diario de Adán y Eva~CU;La célebre rana saltarina~CU;Tom Sawyer detective~JU;Viajes de Mark Twain~VG
+Jack London|N|1903-1913|Alianza Editorial|La llamada de lo salvaje~JU;Colmillo Blanco~JU;El lobo de mar;Martin Eden;El talón de hierro;Antes de Adán;Asesinatos S.L.;John Barleycorn;El vagabundo de las estrellas;El llamado de la selva~JU;Hijo del sol
+Herman Melville|N|1846-1857|Alianza Editorial|Bartleby el escribiente~CU;Billy Budd;Typee;Omoo;Mardi;Pierre o las ambigüedades;Los cuentos del porche~CU
+Nathaniel Hawthorne|N|1837-1852|Alba Editorial|La letra escarlata;La casa de los siete tejados;Cuentos contados dos veces~CU;El fauno de mármol;La novela de Blithedale
+Henry James|N|1878-1904|Alba Editorial|Retrato de una dama;Otra vuelta de tuerca~TR;Los europeos;Washington Square;Las alas de la paloma;Los embajadores;Daisy Miller~CU;La copa dorada;Los papeles de Aspern
+Edith Wharton|N|1905-1920|Alba Editorial|La edad de la inocencia;Ethan Frome;La casa de la alegría;Cuentos de fantasmas~TR;Verano
+William Faulkner|N|1929-1959|Anagrama|El sonido y la furia;Mientras agonizo;Luz de agosto;¡Absalón, Absalón!;Santuario;Las palmeras salvajes;Los invictos;Mosquitos;Sartoris;Mientras yo agonizo
+Ernest Hemingway|N|1926-1961|Debolsillo|Adiós a las armas;Fiesta;Tener y no tener;París era una fiesta~BI;Al otro lado del río y entre los árboles;Las nieves del Kilimanjaro~CU;Islas en el golfo;Muerte en la tarde~EN;Verdes colinas de África~VG;Los asesinos~CU;El jardín del Edén;Un verano peligroso~EN
+F. Scott Fitzgerald|N|1920-1940|Anagrama|Suave es la noche;A este lado del paraíso;Hermosos y malditos;El curioso caso de Benjamin Button~CU;El último magnate;Cuentos de la era del jazz~CU;Hermosos y condenados
+John Steinbeck|N|1935-1962|Penguin Random House|Al este del Edén;Tortilla Flat;Cannery Row;El invierno de nuestro descontento;Viajes con Charley~VG;La perla;Las uvas de la ira;De ratones y hombres;Dulce jueves
+Jack Kerouac|N|1950-1962|Anagrama|En el camino;Los vagabundos del Dharma;Big Sur;Los subterráneos;Tristessa;Visiones de Cody
+J. D. Salinger|N|1951-1963|Edhasa|Franny y Zooey;Nueve cuentos~CU;Levantad, carpinteros, la viga maestra;Seymour, una introducción
+Truman Capote|N|1948-1980|Anagrama|Desayuno en Tiffany's;A sangre fría~EN;Otras voces, otros ámbitos;Música para camaleones~CU;Plegarias atendidas;El arpa de hierba;Un recuerdo navideño~CU
+Toni Morrison|N|1970-2008|Lumen|Beloved;Ojos azules;Sula;Canción de Salomón;Jazz;Paraíso;Un don;La fuente de la autoestima~EN;Compasión;Hogar;Amor
+Philip Roth|N|1959-2010|Debolsillo|Pastoral americana;El mal de Portnoy;La mancha humana;Me casé con un comunista;Elegía;Némesis;Patrimonio~BI;El animal moribundo;Indignación;La contravida;Operación Shylock;El teatro de Sabbath;Adiós, Columbus
+Saul Bellow|N|1953-2000|Edhasa|Herzog;El legado de Humboldt;Las aventuras de Augie March;Ravelstein;Henderson, el rey de la lluvia;El planeta del señor Sammler
+Paul Auster|N|1985-2017|Anagrama|La trilogía de Nueva York;El Palacio de la Luna;Leviatán;Mr. Vértigo;Brooklyn Follies;4 3 2 1;Invisible;Sunset Park;La música del azar;Viaje al scriptorium;Un hombre en la oscuridad;La invención de la soledad~BI;Baumgartner
+Cormac McCarthy|N|1985-2012|Debolsillo|La carretera;Meridiano de sangre;No es país para viejos;Todos los hermosos caballos;Suttree;El guardián del vergel;Cruzando la frontera;Ciudades de la llanura;El pasajero;Stella Maris
+Margaret Atwood|N|1969-2019|Salamandra|El cuento de la criada~CF;Los testamentos~CF;Ojo de gato;Alias Grace;El asesino ciego;Oryx y Crake~CF;La mujer comestible;El año del diluvio~CF;Penélope y las doce criadas;La novia ladrona
+Alice Munro|CU|1968-2012|Lumen|Odio, amistad, noviazgo, amor, matrimonio;Demasiada felicidad;Mi vida querida;Escapada;La vista desde Castle Rock;Las lunas de Júpiter;El progreso del amor;Secretos a voces;El amor de una mujer generosa
+Julian Barnes|N|1984-2016|Anagrama|El loro de Flaubert;El sentido de un final;Una historia del mundo en 10 capítulos y medio;Niveles de vida~BI;El ruido del tiempo;Arthur y George;Amor, etcétera;Inglaterra, Inglaterra;Nada que temer~BI
+Ian McEwan|N|1978-2022|Anagrama|Expiación;Ámsterdam;Sábado;Chesil Beach;El jardín de cemento;Máquinas como yo~CF;Cáscara de nuez;Lección;Solar;Amor perdurable;Los perros negros
+Zadie Smith|N|2000-2019|Salamandra|Dientes blancos;Sobre la belleza;NW;Swing Time;Sentir es libre~EN;El hombre autógrafo
+Salman Rushdie|N|1975-2017|Debolsillo|Hijos de la medianoche;Los versos satánicos;El último suspiro del moro;Shalimar el payaso;Joseph Anton~BI;Quijote;La casa Golden;Haroun y el mar de historias~JU;El suelo bajo sus pies
+J. M. Coetzee|N|1974-2003|Penguin Random House|Esperando a los bárbaros;Desgracia;Elizabeth Costello;Vida y época de Michael K;Foe;Juventud~BI;Infancia~BI;Hombre lento;Tierras de poniente
+Chinua Achebe|N|1958-1987|Debolsillo|Todo se desmorona;La flecha de Dios;El hombre del pueblo;Un hombre del pueblo;Los termitas de la sabana
+Karen Blixen|N|1934-1957|Alba Editorial|Memorias de África~BI;Siete cuentos góticos~CU;Anécdotas del destino~CU;Cartas de África~BI
+Virginia Woolf|N|1915-1941|Lumen|Orlando;Las olas;Flush;Los años;El cuarto de Jacob;Noche y día;Entre actos;La travesía;Tres guineas~EN;Diario de una escritora~BI
+D. H. Lawrence|N|1913-1928|Alianza Editorial|El amante de Lady Chatterley;Hijos y amantes;Mujeres enamoradas;El arco iris;La serpiente emplumada;Canguro
+E. M. Forster|N|1905-1924|Alba Editorial|Una habitación con vistas;Regreso a Howards End;Pasaje a la India;Maurice;El más largo viaje;Donde los ángeles no se aventuran
+Evelyn Waugh|N|1928-1945|Anagrama|Retorno a Brideshead;Merienda de negros;Un puñado de polvo;Noticia bomba;Los seres queridos
+Graham Greene|N|1938-1958|Edhasa|El poder y la gloria;El americano impasible;El tercer hombre~MS;Nuestro hombre en La Habana;El revés de la trama;El fin de la aventura;Brighton Rock;El agente confidencial;El factor humano
+George Orwell|N|1933-1949|Debolsillo|Rebelión en la granja;Sin blanca en París y Londres~BI;El camino de Wigan Pier~EN;Subir a por aire;Matar a un elefante~EN;Días en Birmania;Que no muera la aspidistra
+Aldous Huxley|N|1928-1962|Debolsillo|Contrapunto;Ciego en Gaza;Las puertas de la percepción~EN;La isla~CF;Nueva visita a un mundo feliz~EN;Sin ojos en Gaza;Viejo muere el cisne
+William Golding|N|1954-1980|Alianza Editorial|El señor de las moscas;Los herederos;Rito de paso;Pincher Martin;La pirámide;Oscuridad visible
+Anthony Burgess|CF|1962-1970|Minotauro|La naranja mecánica;Los poderes terrenales~N;Sinfonía Napoleón~N
+Cesare Pavese|N|1941-1950|Edhasa|La luna y las fogatas;El oficio de vivir~BI;Antes de que cante el gallo;La playa;El camarada;Trabajar cansa~PO;Diálogos con Leucó
+Giuseppe Tomasi di Lampedusa|N|1958-1958|Anagrama|El gatopardo
+Primo Levi|EN|1947-1986|Península|Si esto es un hombre~BI;La tregua~BI;Los hundidos y los salvados~EN;El sistema periódico~CN;Lilit y otros cuentos~CU;La llave estrella~N
+Alberto Moravia|N|1929-1960|Anagrama|Los indiferentes;La romana;El conformista;La ciociara;El desprecio;Agostino;Cuentos romanos~CU
+Roberto Arlt|N|1926-1931|Seix Barral|El juguete rabioso;Los siete locos;Los lanzallamas;El amor brujo;Aguafuertes porteñas~EN
+Adolfo Bioy Casares|CF|1940-1969|Alianza Editorial|La invención de Morel;Dormir al sol~N;Diario de la guerra del cerdo~N;El sueño de los héroes~N;Plan de evasión;Historias fantásticas~CU;Memorias~BI
+Manuel Puig|N|1968-1982|Seix Barral|El beso de la mujer araña;Boquitas pintadas;La traición de Rita Hayworth;Pubis angelical;Maldición eterna a quien lea estas páginas;The Buenos Aires Affair;Sangre de amor correspondido
+José Donoso|N|1966-1978|Alfaguara|El obsceno pájaro de la noche;Casa de campo;Coronación;El lugar sin límites;Este domingo;Tres novelitas burguesas;El jardín de al lado
+Nicanor Parra|PO|1954-1985|Alfaguara|Poemas y antipoemas;Artefactos;Versos de salón;Obra gruesa;Discurso de sobremesa;Hojas de Parra
+Gabriela Mistral|PO|1922-1954|Alfaguara|Desolación;Ternura;Tala;Lagar;Poema de Chile;Recados~EN
+Vicente Huidobro|PO|1918-1931|Cátedra|Altazor;Temblor de cielo;Poemas árticos;Ver y palpar;Mío Cid Campeador~N
+César Vallejo|PO|1918-1939|Cátedra|Trilce;España, aparta de mí este cáliz;Poemas humanos;Escalas melografiadas~CU;Los heraldos negros;El tungsteno~N
+Mario Benedetti|PO|1956-2005|Alfaguara|Poemas de la oficina;Preguntas al azar;La tregua~N;Gracias por el fuego~N;Primavera con una esquina rota~N;Montevideanos~CU;El cumpleaños de Juan Ángel~N;Andamios~N;Rincón de haikus;Inventario tres;Vivir adrede;Cotidianas
+Eduardo Galeano|EN|1971-2012|Siglo XXI Editores|Memoria del fuego~HI;Días y noches de amor y de guerra~BI;Patas arriba: la escuela del mundo al revés;Espejos: una historia casi universal~HI;Los hijos de los días~HI;El fútbol a sol y sombra~DR;Bocas del tiempo;Las palabras andantes;Ser como ellos y otros artículos
+Ricardo Piglia|N|1967-2015|Anagrama|Respiración artificial;Plata quemada;Blanco nocturno;Los diarios de Emilio Renzi~BI;Nombre falso;La ciudad ausente;El camino de Ida;Crítica y ficción~EN
+Alejo Carpentier|N|1944-1978|Alianza Editorial|El reino de este mundo;Los pasos perdidos;El siglo de las luces;Concierto barroco;El arpa y la sombra;Ecué-Yamba-O;El acoso;La consagración de la primavera
+Miguel Ángel Asturias|N|1946-1960|Alianza Editorial|El señor presidente;Hombres de maíz;Leyendas de Guatemala~CU;Mulata de tal;Viento fuerte;El papa verde
+Augusto Roa Bastos|N|1960-1974|Alfaguara|Yo el Supremo;Hijo de hombre;El trueno entre las hojas~CU;Vigilia del Almirante~N
+Rómulo Gallegos|N|1925-1935|Alianza Editorial|Doña Bárbara;Canaima;Cantaclaro;Pobre negro;Reinaldo Solar
+Tomás Carrasquilla|N|1896-1928|Panamericana Editorial|La marquesa de Yolombó;Frutos de mi tierra;Hace tiempos~BI;Grandeza;Entrañas de niño
+Eduardo Caballero Calderón|N|1952-1968|Panamericana Editorial|El Cristo de espaldas;Siervo sin tierra;Manuel Pacho;Tipacoque~BI
+Manuel Mejía Vallejo|N|1962-1990|Alfaguara|La casa de las dos palmas;Aire de tango;El día señalado;Al pie de la ciudad;Las muertes ajenas;Tarde de verano~CU
+Gustavo Álvarez Gardeazábal|N|1971-1990|Planeta|Cóndores no entierran todos los días;El bazar de los idiotas;Pepe Botellas;El titiritero
+Andrés Caicedo|N|1977-1977|Norma|¡Que viva la música!;Angelitos empantanados;El atravesado;Noche sin fortuna~CU
+Rafael Chaparro Madiedo|N|1992-1992|Alfaguara|Opio en las nubes
+Pilar Quintana|N|2007-2021|Alfaguara|La perra;Coleccionistas de polvos raros;Abismo;Los abismos;Caperucita en la zona roja
+Ángela Becerra|RO|1998-2011|Planeta|Ella que todo lo tuvo;El penúltimo sueño;Lo que le falta al tiempo;Algo tan sencillo
+Alfredo Molano|EN|1978-2016|Planeta|Siguiendo el corte;A lomo de mula;Desterrados;Aguas arriba;Los años del tropel
+Germán Castro Caycedo|EN|1978-1994|Planeta|Perdido en el Amazonas;El Karina;Nuestra guerra ajena;Colombia amarga;Mi alma se la dejo al diablo;Del ELN al M-19;La bruja;El hueco
+Isabel Allende|BI|2003-2013|Debolsillo|Mi país inventado
+Ildefonso Falcones|N|2006-2018|Grijalbo|La catedral del mar;La mano de Fátima;Los herederos de la tierra;La reina descalza;Esclava de la libertad
+Julia Navarro|N|2004-2019|Plaza & Janés|La Biblia de barro;La hermandad de la Sábana Santa;Dime quién soy;Dispara, yo ya estoy muerto;Historia de un canalla
+María Dueñas|N|2009-2021|Planeta|El tiempo entre costuras;La templanza;Misión olvido;Sira;Las hijas del Capitán;Por si un día volvemos
+Almudena Grandes|N|1989-2018|Tusquets|Las edades de Lulú;Malena es un nombre de tango;Atlas de geografía humana;El corazón helado;Los aires difíciles;Inés y la alegría;El lector de Julio Verne;Los pacientes del doctor García;La madre de Frankenstein
+Javier Marías|N|1986-2017|Alfaguara|Corazón tan blanco;Mañana en la batalla piensa en mí;Tu rostro mañana;Los enamoramientos;Así empieza lo malo;Negra espalda del tiempo;Todas las almas;Berta Isla;Venía a contarte
+Antonio Muñoz Molina|N|1987-2018|Seix Barral|El jinete polaco;Plenilunio;Sefarad;Beltenebros;Ventanas de Manhattan~EN;Como la sombra que se va;Un andar solitario entre la gente~EN
+Camilo José Cela|N|1942-1951|Destino|La familia de Pascual Duarte;La colmena;Viaje a la Alcarria~VG;Mazurca para dos muertos;San Camilo 1936
+Miguel Delibes|N|1948-1981|Destino|El camino;Los santos inocentes;Cinco horas con Mario;La sombra del ciprés es alargada;El príncipe destronado;La hoja roja;Las ratas;Diario de un cazador~BI;El hereje;Señora de rojo sobre fondo gris
+Carmen Laforet|N|1945-1963|Destino|Nada;La isla y los demonios;La mujer nueva;La insolación
+Benito Pérez Galdós|N|1870-1897|Alianza Editorial|Fortunata y Jacinta;Misericordia;Marianela;Trafalgar;Doña Perfecta;Tristana;Nazarín;La desheredada;Miau;Ángel Guerra;El amigo Manso
+Leopoldo Alas Clarín|N|1885-1895|Cátedra|La Regenta;Adiós, Cordera~CU;Su único hijo;Doña Berta~CU
+Miguel de Unamuno|N|1902-1931|Alianza Editorial|Niebla;San Manuel Bueno, mártir;Del sentimiento trágico de la vida~FP;La tía Tula;Abel Sánchez;Paz en la guerra;Amor y pedagogía;En torno al casticismo~EN
+Pío Baroja|N|1900-1935|Alianza Editorial|El árbol de la ciencia;Zalacaín el aventurero;Camino de perfección;La busca;Las inquietudes de Shanti Andía;César o nada
+Ramón del Valle-Inclán|N|1902-1926|Cátedra|Luces de bohemia~TE;Sonata de otoño;Tirano Banderas;Divinas palabras~TE;Sonata de primavera;Los cuernos de don Friolera~TE
+Rafael Alberti|PO|1925-1953|Cátedra|Marinero en tierra;Sobre los ángeles;Retornos de lo vivo lejano;Cal y canto;La arboleda perdida~BI
+Miguel Hernández|PO|1933-1942|Cátedra|El rayo que no cesa;Viento del pueblo;Cancionero y romancero de ausencias;Perito en lunas;Antología poética;Las nanas de la cebolla
+Juan Ramón Jiménez|PO|1914-1946|Cátedra|Platero y yo~N;Diario de un poeta recién casado;Eternidades;Piedra y cielo;Animal de fondo;Segunda antología poética
+Luis Cernuda|PO|1927-1964|Cátedra|La realidad y el deseo;Los placeres prohibidos;Ocnos;Donde habite el olvido;Desolación de la quimera
+Francisco de Quevedo|N|1626-1627|Cátedra|El Buscón;Los sueños;Poemas;La hora de todos
+Lope de Vega|TE|1598-1635|Cátedra|Fuenteovejuna;El perro del hortelano;El caballero de Olmedo;La dama boba;Peribáñez y el comendador de Ocaña;El mejor alcalde, el rey;Rimas~PO
+Pedro Calderón de la Barca|TE|1635-1673|Cátedra|La vida es sueño;El alcalde de Zalamea;El gran teatro del mundo;La dama duende;El médico de su honra
+Tirso de Molina|TE|1616-1630|Cátedra|El burlador de Sevilla;El condenado por desconfiado;Don Gil de las calzas verdes;La prudencia en la mujer
+Anónimo|N|1985-2010|Cátedra|El Lazarillo de Tormes;Cantar de mio Cid~PO;Las mil y una noches;Libro del buen amor~PO;La Celestina~TE;Poema de Gilgamesh~PO;Beowulf~PO;El Cantar de los Nibelungos~PO
+Miguel de Cervantes|N|1585-1615|Cátedra|Novelas ejemplares~CU;La Galatea;Entremeses~TE;Los trabajos de Persiles y Sigismunda;El cerco de Numancia~TE;Viaje del Parnaso~PO
+William Shakespeare|TE|1591-1611|Cátedra|El rey Lear;Sueño de una noche de verano;La tempestad;Julio César;El mercader de Venecia;Mucho ruido y pocas nueces;Ricardo III;Antonio y Cleopatra;Como gustéis;La fierecilla domada;Noche de Reyes;Sonetos~PO;Enrique V;Timón de Atenas;El cuento de invierno;Medida por medida;Coriolano;Las alegres comadres de Windsor
+Sófocles|TE|1985-2015|Gredos|Edipo rey;Antígona;Electra;Edipo en Colono;Áyax;Las traquinias
+Eurípides|TE|1985-2015|Gredos|Medea;Las bacantes;Hipólito;Las troyanas;Ifigenia en Áulide;Alcestis;Electra;Andrómaca
+Esquilo|TE|1985-2015|Gredos|Orestíada;Prometeo encadenado;Los siete contra Tebas;Los persas;Las suplicantes
+Aristófanes|TE|1985-2015|Gredos|Las nubes;Lisístrata;Las ranas;Las avispas;Las aves;Pluto
+Virgilio|PO|1985-2015|Gredos|La Eneida;Las Geórgicas;Las Bucólicas
+Ovidio|PO|1985-2015|Gredos|Las metamorfosis;El arte de amar;Tristes;Fastos;Heroidas;Remedios de amor
+Henrik Ibsen|TE|1879-1890|Alianza Editorial|Casa de muñecas;Hedda Gabler;Un enemigo del pueblo;Espectros;El pato salvaje;Peer Gynt;Rosmersholm
+Samuel Beckett|TE|1952-1961|Tusquets|Esperando a Godot;Final de partida;Los días felices;Molloy~N;Malone muere~N;El innombrable~N;La última cinta de Krapp
+August Strindberg|TE|1888-1907|Alianza Editorial|La señorita Julia;El padre;Sonata de los espectros;El sueño;Danza de muerte
+Bertolt Brecht|TE|1928-1944|Alianza Editorial|Madre Coraje y sus hijos;La ópera de tres centavos;Galileo Galilei;El alma buena de Sezuán;La resistible ascensión de Arturo Ui;Terror y miserias del Tercer Reich;El círculo de tiza caucasiano
+Arthur Miller|TE|1947-1955|Tusquets|Muerte de un viajante;Las brujas de Salem;Todos eran mis hijos;Panorama desde el puente;Después de la caída;El precio
+Tennessee Williams|TE|1944-1955|Tusquets|Un tranvía llamado deseo;La gata sobre el tejado de zinc;El zoo de cristal;La noche de la iguana;De repente, el último verano
+Eugène Ionesco|TE|1950-1962|Cátedra|La cantante calva;Rinoceronte;Las sillas;La lección;El rey se muere
+Jean Anouilh|TE|1944-1944|Cátedra|Antígona;Becket o el honor de Dios;Eurídice;El ensayo
+Molière|TE|1662-1673|Cátedra|Tartufo;El avaro;El misántropo;El enfermo imaginario;Las preciosas ridículas;Don Juan;La escuela de las mujeres
+Oscar Wilde|TE|1890-1895|Cátedra|La importancia de llamarse Ernesto;Salomé;El abanico de Lady Windermere;Un marido ideal;El fantasma de Canterville~CU;El príncipe feliz y otros cuentos~IN;De profundis~BI;El crítico como artista~EN;Una mujer sin importancia
+Alejandro Casona|TE|1934-1962|Cátedra|La dama del alba;La barca sin pescador;Los árboles mueren de pie;Nuestra Natacha;La sirena varada
+Jacinto Benavente|TE|1907-1913|Cátedra|Los intereses creados;La malquerida;Señora ama;La noche del sábado
+Enrique Buenaventura|TE|1960-1990|Panamericana Editorial|La tragedia del rey Christophe;Los papeles del infierno;A la diestra de Dios Padre;Teatro completo;La maravilla
+Jairo Aníbal Niño|TE|1970-1990|Panamericana Editorial|El monte calvo;Los inquilinos de la ira;Las bolas del rey
+José Asunción Silva|PO|1908-1908|Panamericana Editorial|Poesías completas;De sobremesa~N;Nocturno;Gotas amargas
+León de Greiff|PO|1925-1970|Panamericana Editorial|Tergiversaciones;Libro de signos;Variaciones alrededor de nada;Prosas de Gaspar;Fárrago;Bárbara Alma
+Porfirio Barba-Jacob|PO|1932-1932|Panamericana Editorial|Canciones y elegías;Antorchas contra el viento;Poemas intemporales;Rosas negras
+Meira Delmar|PO|1942-1995|Panamericana Editorial|Alba de olvido;Verdad del sueño;Sitio del amanecer;Laúd memorioso;Reencuentro;Huésped sin sombra
+Raúl Gómez Jattin|PO|1988-1995|Panamericana Editorial|Tríptico cereteano;Hijos del tiempo;Amanecer en el Valle del Sinú;Retratos;Del amor
+Aurelio Arturo|PO|1963-1963|Panamericana Editorial|Morada al sur;Obra poética completa
+Jorge Gaitán Durán|PO|1958-1961|Panamericana Editorial|Amantes;Si mañana despierto;Insurrección
+Walt Whitman|PO|1855-1892|Cátedra|Hojas de hierba;Canto a mí mismo;Días Sencillos~BI;Poemas de amor
+Emily Dickinson|PO|1890-1955|Cátedra|Poemas;Poemas 1-150;Cartas
+Charles Baudelaire|PO|1857-1869|Cátedra|Las flores del mal;El spleen de París;Los paraísos artificiales~EN;Diarios íntimos~BI;Salones y otros escritos sobre arte~AA
+Arthur Rimbaud|PO|1873-1886|Cátedra|Una temporada en el infierno;Iluminaciones;Poesías completas;El barco ebrio
+Rainer Maria Rilke|PO|1899-1923|Alianza Editorial|Cartas a un joven poeta~EN;Elegías de Duino;Sonetos a Orfeo;Los cuadernos de Malte Laurids Brigge~N;El libro de horas;Nuevos poemas
+Fernando Pessoa|PO|1914-1934|Acantilado|Libro del desasosiego;Mensaje;El poeta es un fingidor;Poesías de Álvaro de Campos;El guardador de rebaños;Poemas de Alberto Caeiro
+T. S. Eliot|PO|1915-1943|Cátedra|La tierra baldía;Cuatro cuartetos;Asesinato en la catedral~TE;Poesías reunidas;Prufrock y otras observaciones
+Dylan Thomas|PO|1946-1952|Cátedra|Bajo el bosque lácteo;Poemas reunidos;Retrato del artista cachorro~N
+Sylvia Plath|PO|1960-1965|Bartleby|La campana de cristal~N;Ariel;Cartas a mi madre~BI;Los diarios de Sylvia Plath~BI;El coloso
+Alejandra Pizarnik|PO|1955-1971|Lumen|Árbol de Diana;Extracción de la piedra de locura;Los trabajos y las noches;La condesa sangrienta;Diarios~BI
+Alfonsina Storni|PO|1916-1938|Cátedra|La inquietud del rosal;Ocre;Mundo de siete pozos;Mascarilla y trébol;Poemas de amor
+Idea Vilariño|PO|1945-1960|Cátedra|Poemas de amor;La suplicante;Nocturnos;Paraíso perdido
+Jaime Sabines|PO|1950-1970|Joaquín Mortiz|Tarumba;Yerba Mala;Maltiempo;Horal;Algo sobre la muerte del Mayor Sabines
+Ernesto Cardenal|PO|1960-1980|Trotta|Epigramas;Oráculo sobre Managua;Cántico cósmico;Salmos;El Evangelio en Solentiname~RE;Vida perdida~BI
+Giovanni Quessep|PO|1961-1990|Panamericana Editorial|El ser no es una fábula;Muerte de Merlín;Canto del extranjero;Libro del encantado
+Rupi Kaur|PO|2014-2020|Planeta|Otras maneras de usar la boca;El sol y sus flores;Home body
+Elvira Sastre|PO|2014-2019|Visor|Baluarte;La soledad de un cuerpo acostumbrado a la herida;Días sin ti;Ya nadie baila
+Benjamín Prado|PO|1990-2011|Visor|Marea humana;Mala gente que camina~N;Los nombres de Julia~N
+Luis García Montero|PO|1982-2003|Visor|Habitaciones separadas;Completamente viernes;Diario cómplice;Además
+Pedro Lemebel|EN|1995-2013|Anagrama|Tengo miedo torero~N;De perlas y cicatrices;Loco afán;Háblame de amores;Zanjón de la Aguada
+Clarice Lispector|N|1943-1977|Siruela|La hora de la estrella;La pasión según G.H.;Cerca del corazón salvaje;Aprendizaje o el libro de los placeres;Agua viva;Lazos de familia~CU;La manzana en la oscuridad;Felicidad clandestina~CU
+Julio Ramón Ribeyro|CU|1955-1994|Alfaguara|La palabra del mudo;Cuentos de circunstancias;Los gallinazos sin plumas;Prosas apátridas~EN;Silvio en El Rosedal;Dichos de Luder~EN
+Alfredo Bryce Echenique|N|1970-2012|Anagrama|Un mundo para Julius;La vida exagerada de Martín Romaña;El huerto de mi amada;Reo de nocturnidad;Permiso para sentir~BI;No me esperen en abril
+Ricardo Palma|CU|1872-1883|Cátedra|Tradiciones peruanas;Cachivachería~EN
+José María Arguedas|N|1941-1971|Losada|Los ríos profundos;Todas las sangres;Yawar fiesta;El zorro de arriba y el zorro de abajo;Agua~CU;Diamantes y pedernales~CU
+Ciro Alegría|N|1935-1941|Losada|El mundo es ancho y ajeno;La serpiente de oro;Los perros hambrientos
+Jorge Icaza|N|1934-1934|Losada|Huasipungo;Cholos;En las calles
+Juan Carlos Onetti|N|1939-1979|Seix Barral|El astillero;La vida breve;Los adioses;Juntacadáveres;Para una tumba sin nombre;El pozo;Dejemos hablar al viento
+Felisberto Hernández|CU|1925-1960|Cátedra|Las hortensias;Nadie encendía las lámparas;Tierras de la memoria~N;Por los tiempos de Clemente Colling~N;El caballo perdido
+Cristina Peri Rossi|N|1971-1991|Lumen|La nave de los locos;Los museos abandonados~CU;Solitario de amor;Desastres íntimos;Estado de exilio~PO
+Rodolfo Walsh|EN|1957-1973|Penguin Random House|Operación masacre;¿Quién mató a Rosendo?;Un kilo de oro~CU;Los oficios terrestres~CU;Ese hombre y otros papeles personales
+Elena Garro|N|1963-1981|Penguin Random House|Los recuerdos del porvenir;La semana de colores~CU;Testimonios sobre Mariana;Andamos huyendo Lola~CU
+Rosario Castellanos|N|1957-1962|Fondo de Cultura Económica|Balún-Canán;Oficio de tinieblas;Mujer que sabe latín~EN;Ciudad Real~CU;Álbum de familia~CU
+Juan José Arreola|CU|1952-1963|Joaquín Mortiz|Confabulario;Bestiario;La feria~N;Varia invención;Palindroma
+Augusto Monterroso|CU|1959-1987|Anagrama|Obras completas (y otros cuentos);La oveja negra y demás fábulas;El dinosaurio;Movimiento perpetuo~EN;La letra e~BI
+José Emilio Pacheco|CU|1967-1981|Era|Las batallas en el desierto~N;El principio del placer;Morirás lejos~N;Tarde o temprano~PO;Los elementos de la noche~PO
+Sergio Ramírez|N|1985-2017|Alfaguara|Margarita, está linda la mar;Castigo divino;Sombras nada más;Adiós muchachos~BI;Cuando todos hablaban;Mil y una muertes;Un baile de máscaras;La fugitiva
+Gioconda Belli|N|1988-2014|Seix Barral|La mujer habitada;El país bajo mi piel~BI;Sofía de los presagios;El pergamino de la seducción;Waslala;El infinito en la palma de la mano
+José Martí|PO|1882-1891|Cátedra|Versos sencillos;Ismaelillo;La Edad de Oro~IN;Nuestra América~EN;Amistad funesta~N;Diario de campaña~BI;Flores del destierro
+Guillermo Cabrera Infante|N|1960-1990|Seix Barral|Tres tristes tigres;La Habana para un infante difunto;Así en la paz como en la guerra~CU;Holy Smoke~EN;Mea Cuba~EN;Vista del amanecer en el trópico
+Reinaldo Arenas|N|1967-1990|Tusquets|Antes que anochezca~BI;Celestino antes del alba;El mundo alucinante;Viaje a La Habana;Otra vez el mar;El palacio de las blanquísimas mofetas
+Leonardo Padura|MS|1991-2020|Tusquets|Pasado perfecto;Vientos de cuaresma;Máscaras;El hombre que amaba a los perros~N;Herejes~N;La transparencia del tiempo;Paisaje de otoño;Adiós, Hemingway;La novela de mi vida~N;Como polvo en el viento~N
+José Lezama Lima|N|1966-1977|Cátedra|Paradiso;Oppiano Licario;Muerte de Narciso~PO;La expresión americana~EN;Los cuentos~CU
+Fredrik Backman|N|2012-2020|Reservoir Books|Un hombre llamado Ove;Mi abuela me pidió que te dijera que lo siente;Ansiedad;Gente ansiosa;Oso;Britt-Marie estuvo aquí;Los deberes de la vida;Nosotros contra vosotros
+Matt Haig|N|2015-2021|Reservoir Books|La biblioteca de la medianoche;Razones para seguir viviendo~BI;Los humanos;Cómo parar el tiempo;El Padre Navidad y yo~IN;Notas sobre un planeta nervioso~EN
+Gabrielle Zevin|N|2014-2022|Penguin Random House|Mañana, y mañana, y mañana;La vida imprevista de A. J. Fikry;Elsewhere
+Delia Owens|N|2018-2021|Planeta|Donde cantan los cangrejos
+Sally Rooney|N|2017-2021|Penguin Random House|Conversaciones entre amigos;Gente normal;Dónde estás, mundo hermoso
+Jostein Gaarder|N|1991-2003|Siruela|El mundo de Sofía~FP;El misterio del solitario;La muchacha de las naranjas;El día del Juicio Final;Maya;Vita brevis;¿Hay alguien ahí?~IN
+Bernhard Schlink|N|1995-2000|Anagrama|El lector;Amores en fuga;Vuelta a casa
+Patrick Modiano|N|1978-2014|Anagrama|Calle de las Tiendas Oscuras;En el café de la juventud perdida;Dora Bruder;Barrio perdido;Pedigrí~BI
+Michel Houellebecq|N|1994-2022|Anagrama|Las partículas elementales;Plataforma;Sumisión;Serotonina;Ampliación del campo de batalla;El mapa y el territorio;Aniquilación
+Annie Ernaux|N|1984-2022|Cabaret Voltaire|El acontecimiento;Los años;El lugar;Pasión simple;Una mujer;La vergüenza;Memoria de chica;Nadie me espera
+Marguerite Yourcenar|N|1951-1968|Alfaguara|Memorias de Adriano;Opus nigrum;Fuegos;Cuentos orientales~CU;Como el agua que fluye~CU;El tiempo, ese gran escultor~EN
+Marcel Proust|N|1913-1927|Alianza Editorial|Por el camino de Swann;A la sombra de las muchachas en flor;El mundo de Guermantes;Sodoma y Gomorra;La prisionera;La fugitiva;El tiempo recobrado;Jean Santeuil;Contra Sainte-Beuve~EN
+

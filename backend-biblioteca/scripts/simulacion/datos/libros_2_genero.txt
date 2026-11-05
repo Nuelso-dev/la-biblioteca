@@ -1,0 +1,107 @@
+Isaac Asimov|CF|1950-1993|Debolsillo|Fundación e Imperio;Segunda Fundación;Los propios dioses;El fin de la eternidad;Bóvedas de acero;El sol desnudo;Los robots del amanecer;Un guijarro en el cielo;Yo, robot~CU;Fundación;Preludio a la Fundación;Hacia la Fundación;Las corrientes del espacio;Sueños de robot~CU;Visiones de robot~CU
+Arthur C. Clarke|CF|1951-1982|Edhasa|2001: una odisea espacial;El fin de la infancia;Cita con Rama;Las fuentes del paraíso;2010: Odisea dos;Las arenas de Marte;El centinela~CU
+Philip K. Dick|CF|1962-1982|Minotauro|¿Sueñan los androides con ovejas eléctricas?;El hombre en el castillo;Ubik;Fluyan mis lágrimas, dijo el policía;Una mirada a la oscuridad;Los tres estigmas de Palmer Eldritch;Valis;Sueños eléctricos~CU;Lotería solar
+Ursula K. Le Guin|CF|1968-1974|Minotauro|Un mago de Terramar;La mano izquierda de la oscuridad;Los desposeídos;Las tumbas de Atuán;La costa más lejana;Tehanu;El nombre del mundo es bosque;Cuentos de Terramar~CU
+Frank Herbert|CF|1965-1985|Debolsillo|Dune;El mesías de Dune;Hijos de Dune;Dios Emperador de Dune;Herejes de Dune;Casa Capitular Dune
+Orson Scott Card|CF|1985-1996|Ediciones B|El juego de Ender;La voz de los muertos;Ender el Xenocida;Hijos de la mente;La sombra de Ender;Ender en el exilio
+William Gibson|CF|1984-2003|Minotauro|Neuromante;Conde Cero;Mona Lisa acelerada;Reconocimiento de patrones;Quemando cromo~CU
+Neal Stephenson|CF|1992-2008|Ediciones B|Snow Crash;Criptonomicón;La era del diamante;Anatema;Reamde
+Stanisław Lem|CF|1961-1971|Minotauro|Solaris;Diarios de las estrellas;El invencible;Ciberíada;Retorno de las estrellas;Memorias encontradas en una bañera;Fiasco
+Robert A. Heinlein|CF|1959-1966|Minotauro|Tropas del espacio;Forastero en tierra extraña;La luna es una cruel amante;Puerta al verano;Amos de títeres
+Douglas Adams|CF|1979-1992|Anagrama|Guía del autoestopista galáctico;El restaurante del fin del mundo;La vida, el universo y todo lo demás;Hasta luego, y gracias por el pescado;Casi inofensiva;Agencia de investigaciones holísticas Dirk Gently
+Terry Pratchett|CF|1983-2015|Plaza & Janés|Mortimer;Los colores de la magia;Mort;Dioses menores;¡Guardias! ¡Guardias!;Buenos presagios;La luz fantástica
+Neil Gaiman|CF|1996-2015|Roca Editorial|Coraline~IN;Stardust;American Gods;Los hijos de Anansi;El libro del cementerio~JU;Neverwhere;El océano al final del camino;Humo y espejos~CU;Mitos nórdicos~EN
+J. R. R. Tolkien|CF|1937-1977|Minotauro|Las dos torres;El retorno del rey;El Silmarillion;Cuentos inconclusos;Los hijos de Húrin;El libro de los cuentos perdidos;Egidio, el granjero de Ham~CU;Cartas de J. R. R. Tolkien~BI
+George R. R. Martin|CF|1996-2011|Plaza & Janés|Juego de tronos;Choque de reyes;Tormenta de espadas;Festín de cuervos;Danza de dragones;Fuego y sangre;El caballero de los Siete Reinos~CU
+Brandon Sanderson|CF|2006-2017|Nova|El imperio final;El pozo de la ascensión;El héroe de las eras;El camino de los reyes;Palabras radiantes;Elantris;Juramentada;Aliento de los dioses;El ritmo de la guerra
+Patrick Rothfuss|CF|2007-2014|Plaza & Janés|El nombre del viento;El temor de un hombre sabio;La música del silencio
+Andrzej Sapkowski|CF|1990-2013|Alamut|El último deseo;La espada del destino;La sangre de los elfos;Tiempo de odio;Bautismo de fuego;La torre de la golondrina;La dama del lago;Tiempo de tormentas
+Robert Jordan|CF|1990-2005|Minotauro|El ojo del mundo;La gran cacería;El Dragón Reencarnado;Fuego del cielo;El señor del caos
+C. S. Lewis|CF|1938-1956|Destino|El príncipe Caspian~JU;La travesía del Viajero del Alba~JU;La silla de plata~JU;El caballo y su niño~JU;El sobrino del mago~JU;La última batalla~JU;Cartas del diablo a su sobrino~RE;Mero cristianismo~RE;Más allá del planeta silencioso;Perelandra;Esa horrenda fortaleza;Los cuatro amores~FP;Una pena observada~BI
+Michael Crichton|CF|1969-2006|Plaza & Janés|Parque Jurásico;El mundo perdido;La amenaza de Andrómeda;Congo;Esfera;Sol naciente~MS;Estado de miedo;Presa;Timeline;Next
+Ernest Cline|CF|2011-2015|Ediciones B|Ready Player One;Armada;Ready Player Two
+Andy Weir|CF|2011-2021|Ediciones B|El marciano;Artemis;Proyecto Hail Mary
+Liu Cixin|CF|2008-2010|Penguin Random House|El problema de los tres cuerpos;El bosque oscuro;El fin de la muerte;La Tierra errante~CU
+Sarah J. Maas|CF|2012-2021|Hidra|Trono de cristal;Corona de medianoche;Heredera de fuego;Reina de sombras;Imperio de tormentas;Torre del alba;Reino de cenizas;Una corte de rosas y espinas;Una corte de niebla y furia;Una corte de alas y ruina;Una corte de hielo y estrellas;Una corte de llamas plateadas;Casa de tierra y sangre;Casa de cielo y aliento
+Rebecca Yarros|CF|2023-2024|Planeta|Alas de hierro;Alas de sangre
+Jennifer L. Armentrout|RO|2012-2021|Hidra|Obsidiana;Ónix;Ópalo;Origen;Oposición;De sangre y cenizas;Un reino de carne y fuego
+Leigh Bardugo|CF|2012-2019|Hidra|Sombra y hueso;Asedio y tormenta;Ruina y ascenso;Seis de cuervos;Reino de ladrones;El noveno~CF
+Cassandra Clare|CF|2007-2016|Destino|Ciudad de hueso;Ciudad de ceniza;Ciudad de cristal;Ciudad de los ángeles caídos;Ciudad de las almas perdidas;Ciudad del fuego celestial;Ángel mecánico;Príncipe mecánico;Princesa mecánica;Lady Midnight
+Holly Black|CF|2018-2020|Hidra|El príncipe cruel;El rey malvado;La reina de nada
+Victoria Aveyard|CF|2015-2018|Hidra|La reina roja;La espada de cristal;Jaula de reyes;Tormenta de guerra
+Suzanne Collins|JU|2008-2020|RBA|Los juegos del hambre;Balada de pájaros cantores y serpientes
+Agatha Christie|MS|1920-1976|Planeta|Muerte en el Nilo;Cita con la muerte;Cartas sobre la mesa;Poirot investiga~CU;La ratonera~TE;Un cadáver en la biblioteca;El misterioso caso de Styles;Testigo de cargo~TE;Los cuatro grandes;Cinco cerditos;Matar es fácil;El caso de los anónimos;El tren de las 4:50;La tercera muchacha;Navidades trágicas;El truco de los espejos;El misterio del tren azul;Un triste ciprés;Los relojes;Noche sin fin;Telón;Un crimen dormido;Se anuncia un asesinato;Un puñado de centeno;Peligro inminente;Cianuro espumoso;Hacia cero;El pony pálido
+Arthur Conan Doyle|MS|1887-1927|Alianza Editorial|Estudio en escarlata;El signo de los cuatro;El sabueso de los Baskerville;Las aventuras de Sherlock Holmes~CU;Las memorias de Sherlock Holmes~CU;El valle del terror;El mundo perdido~CF;El regreso de Sherlock Holmes~CU;Su última reverencia~CU;El archivo de Sherlock Holmes~CU
+Georges Simenon|MS|1931-1972|Tusquets|Maigret y el asesino;La cabeza de un hombre;El perro canadiense;La noche de la encrucijada;Maigret tiende una trampa;El gato;Maigret en el Picratt's;El hombre que miraba pasar los trenes;El ahorcado de Saint-Pholien;Maigret y el ladrón perezoso
+Raymond Chandler|MS|1939-1958|Edhasa|El sueño eterno;Adiós, muñeca;La ventana alta;La dama del lago;El largo adiós;Playback;La hermanita;El simple arte de matar~CU
+Dashiell Hammett|MS|1929-1934|Alianza Editorial|El halcón maltés;Cosecha roja;La llave de cristal;El hombre delgado;La maldición de los Dain
+Patricia Highsmith|MS|1950-1980|Anagrama|Extraños en un tren;El talento de Mr. Ripley;Ripley bajo tierra;El juego de Ripley;El diario de Edith;Carol~RO;El grito de la lechuza;Ese dulce mal;Ripley en peligro
+Stieg Larsson|MS|2005-2007|Destino|Los hombres que no amaban a las mujeres;La chica que soñaba con una cerilla y un bidón de gasolina;La reina en el palacio de las corrientes de aire
+Jo Nesbø|MS|2003-2017|Reservoir Books|El muñeco de nieve;El leopardo;Petirrojo;Némesis;El redentor;Sed;Policía;Cuchillo;Fantasma;Sangre en la nieve
+Henning Mankell|MS|1991-2009|Tusquets|Asesinos sin rostro;La quinta mujer;Cortafuegos;El hombre sonriente;La leona blanca;El hombre inquieto;La falsa pista;Antes de que hiele;Los perros de Riga
+Dennis Lehane|MS|1994-2010|Salamandra|Mystic River;Shutter Island;Adiós, pequeña, adiós;Desapareció una noche;Vivir de noche;Un trago antes de la guerra
+Gillian Flynn|MS|2006-2012|Salamandra|Perdida;Heridas abiertas;Lugares oscuros
+Paula Hawkins|MS|2015-2021|Planeta|La chica del tren;Escrito en el agua
+Harlan Coben|MS|2001-2021|Debolsillo|No se lo digas a nadie;Ni una palabra;Desaparecido;Seis años;En el bosque;La inocencia;Uno falso;El inocente;Promesa rota;No me mires
+Dan Brown|MS|1998-2017|Planeta|El símbolo perdido;Origen;Fortaleza digital;La conspiración;Punto de impacto;El código Da Vinci;Ángeles y demonios;Inferno
+Ken Follett|MS|1978-2021|Plaza & Janés|La caída de los gigantes~N;El invierno del mundo~N;Un lugar llamado libertad~N;La isla de las tormentas;El ojo de la aguja;El umbral de la eternidad~N;Una columna de fuego~N;Noche sobre las aguas;Nunca;El tercer gemelo;Los pilares de la Tierra;Un mundo sin fin
+John le Carré|MS|1963-2019|Plaza & Janés|El espía que surgió del frío;El topo;El sastre de Panamá;El jardinero fiel;La casa Rusia;Un traidor como los nuestros;La gente de Smiley;El honorable colegial;Una verdad delicada
+Frederick Forsyth|MS|1971-2010|Debolsillo|Chacal;Odessa;Los perros de la guerra;El cuarto protocolo;El manifiesto negro;El afgano;El Cobra
+Juan Gómez-Jurado|MS|2012-2022|Ediciones B|El paciente;Reina roja;Loba negra;Rey blanco;Cicatriz;Todo arde;Espía de Dios;La leyenda del ladrón
+Dolores Redondo|MS|2013-2016|Destino|El guardián invisible;Legado en los huesos;Ofrenda a la tormenta;Todo esto te daré;Los privilegios del ángel
+Javier Sierra|MS|2004-2017|Planeta|La cena secreta;El ángel perdido;La dama azul;El maestro del Prado;El fuego invisible;El mensajero de la luz;Las puertas templarias;La pirámide inmortal
+Carlos Ruiz Zafón|MS|1993-2016|Planeta|El príncipe de la niebla~JU;El palacio de la medianoche~JU;Las luces de septiembre~JU;El prisionero del cielo~N;El laberinto de los espíritus~N;Marina~JU;La ciudad de vapor~CU
+Arturo Pérez-Reverte|N|1988-2021|Alfaguara|El club Dumas;La reina del sur;Territorio comanche;El sol de Breda;Limpieza de sangre;El oro del rey;Hombres buenos;Los perros duros no bailan;Falcó;Eva;Sidi;La piel del tambor;El maestro de esgrima;El húsar;El pintor de batallas;Cadiz?;Un día de cólera;La Carta Esférica;El italiano;Revolución;Línea de fuego;Corsarios de Levante
+Stephen King|TR|1974-2022|Debolsillo|Cementerio de animales;Cujo;La cúpula~CF;22/11/63~CF;Doctor Sueño;Insomnia;El talismán;Ojos de fuego;La zona muerta;Christine;El juego de Gerald;Mr. Mercedes~MS;Joyland~MS;Después;La torre oscura: el pistolero~CF;Mientras escribo~EN;Salem's Lot;Apocalipsis;Pesadillas y paisajes~CU;La tienda;Corazones en la Atlántida;Ojos del dragón;El visitante~MS;Billy Summers~MS;Holly~MS;Fairy Tale~CF;La chica que amaba a Tom Gordon
+H. P. Lovecraft|TR|1926-1936|Alianza Editorial|La llamada de Cthulhu;En las montañas de la locura;El color que cayó del cielo;Los mitos de Cthulhu;El caso de Charles Dexter Ward;La sombra sobre Innsmouth;Los sueños en la casa de la bruja;El horror de Dunwich;La sombra fuera del tiempo;Dagon y otros cuentos~CU
+Shirley Jackson|TR|1948-1962|Minotauro|La maldición de Hill House;Siempre hemos vivido en el castillo;La lotería~CU
+Anne Rice|TR|1976-1988|Ediciones B|Entrevista con el vampiro;El vampiro Lestat;La reina de los condenados;El ladrón de cuerpos;La hora de las brujas;Memnoch el diablo
+Clive Barker|TR|1984-1991|Martínez Roca|Libros de sangre~CU;Cabal
+Mariana Enríquez|TR|2009-2021|Anagrama|Los peligros de fumar en la cama~CU;Las cosas que perdimos en el fuego~CU;Nuestra parte de noche;Alguien camina sobre tu tumba~VG;Bajar es lo peor~N;Cómo desaparecer completamente~N
+Richard Matheson|TR|1954-1978|Minotauro|Soy leyenda;El increíble hombre menguante~CF;La casa infernal
+Joe Hill|TR|2007-2016|Suma de Letras|El traje del muerto;NOS4A2;Cuernos
+Daphne du Maurier|MS|1938-1962|Edhasa|Rebeca;La posada de Jamaica;Mi prima Rachel;Los pájaros~CU;No mires ahora~CU;La casa sobre el estrecho
+Wilkie Collins|MS|1859-1868|Alba Editorial|La piedra lunar;La dama de blanco;Sin nombre
+Gaston Leroux|MS|1907-1910|Alianza Editorial|El fantasma de la ópera;El misterio del cuarto amarillo;El perfume de la dama de negro;La doble vida de Théophraste Longuet
+Maurice Leblanc|MS|1905-1907|Alianza Editorial|Arsenio Lupin, caballero ladrón;Arsenio Lupin contra Herlock Sholmes;La aguja hueca;813;El tapón de cristal
+Jane Austen|RO|1811-1818|Alba Editorial|Mansfield Park;Persuasión;La abadía de Northanger;Lady Susan
+Nicholas Sparks|RO|1996-2017|Penguin Random House|El cuaderno de Noah;Un paseo para recordar;Mensaje en una botella;Querido John;La última canción;Cuando te encuentre;El lugar seguro;Noches de tormenta;La boda;El mejor de mí
+Jojo Moyes|RO|2012-2018|Suma de Letras|Yo antes de ti;Después de ti;Sigo siendo yo;La última carta de amor;La chica que conociste
+Colleen Hoover|RO|2012-2021|Planeta|Verity~MS;Romper el círculo;Hopeless;Slammed;Ugly Love;Quizá algún día;Layla;9 de noviembre;Sin mérito;Regretting You
+Kristin Hannah|RO|2015-2021|Suma de Letras|El ruiseñor;Las mujeres;Cuatro vientos
+Lucinda Riley|RO|2014-2021|Plaza & Janés|Las siete hermanas;La hermana de la tormenta;La hermana de la sombra;La hermana perla;La hermana luna;La hermana sol;La hermana perdida;La habitación de las mariposas;El secreto de Helena;La chica italiana
+Diana Gabaldon|RO|1991-2014|Salamandra|Forastera;La cruz de fuego;Viajera;Tambores de otoño
+Danielle Steel|RO|1981-2019|Plaza & Janés|Cinco días en París;Zoya;El anillo;Joyas
+Julia Quinn|RO|2000-2006|Debolsillo|El duque y yo;El vizconde que me amó
+Elle Kennedy|RO|2015-2019|Titania|El trato;La jugada;El acuerdo
+Anna Todd|RO|2013-2015|Planeta|After;After: Almas perdidas;After: Amor infinito
+E. L. James|RO|2011-2012|Grijalbo|Cincuenta sombras de Grey;Cincuenta sombras más oscuras;Cincuenta sombras liberadas;Grey
+Meg Cabot|RO|2000-2010|Puck|Diario de una princesa~JU
+Stephenie Meyer|JU|2005-2020|Alfaguara|Crepúsculo;Luna nueva;Eclipse;Amanecer;Sol de medianoche;La huésped~CF
+John Green|JU|2005-2017|Nube de Tinta|Buscando a Alaska;Bajo la misma estrella;Ciudades de papel;Tortugas hasta el final;Will Grayson, Will Grayson
+Becky Albertalli|JU|2015-2018|Puck|Yo soy Simon
+Jay Asher|JU|2007-2007|Nube de Tinta|Por trece razones
+James Dashner|JU|2009-2016|Hidra|El corredor del laberinto;Las pruebas;La cura mortal
+Veronica Roth|JU|2011-2013|RBA|Divergente;Insurgente;Leal;Cuatro
+Patrick Ness|JU|2008-2015|Nube de Tinta|Un monstruo viene a verme;Caos caminando
+R. J. Palacio|JU|2012-2015|Nube de Tinta|La lección de August
+Lemony Snicket|JU|1999-2006|Montena|Un mal principio;La habitación de los reptiles
+Jeff Kinney|JU|2007-2019|RBA|Diario de Greg 1: Un renacuajo;Diario de Greg 2: La ley de Rodrick;Diario de Greg 3: ¡Esto es el colmo!;Diario de Greg 4: Días de perros;Diario de Greg 5: La horrible realidad;Diario de Greg 6: ¡Sin salida!;Diario de Greg 7: El tercero en discordia;Diario de Greg 8: Mala suerte;Diario de Greg 9: Sálvese quien pueda
+Rick Riordan|JU|2005-2016|Salamandra|Percy Jackson y el mar de los monstruos;La maldición del titán;La batalla del laberinto;El último héroe del Olimpo;El héroe perdido;El hijo de Neptuno;La marca de Atenea;La casa de Hades;La sangre del Olimpo;Magnus Chase y la espada del verano;La pirámide roja~CF;El trono de fuego~CF;La sombra de la serpiente~CF
+Kiera Cass|JU|2012-2014|Hidra|La selección;La élite;La elegida;La heredera;La corona
+J. K. Rowling|JU|2001-2016|Salamandra|Animales fantásticos y dónde encontrarlos;Cuentos de Beedle el bardo;Harry Potter y el legado maldito~TE;La llamada del cuco~MS;Una vacante imprevista~N;El gusano de seda~MS;Quidditch a través de los tiempos
+Cornelia Funke|JU|2001-2007|Siruela|Corazón de tinta;Sangre de tinta;Muerte de tinta;El señor de los ladrones;El jinete del dragón
+Christopher Paolini|JU|2002-2011|RBA|Eragon;Eldest;Brisingr;Legado
+Eoin Colfer|JU|2001-2012|Montena|Artemis Fowl;Artemis Fowl: El incidente ártico;Artemis Fowl: El código eterno;Artemis Fowl: La venganza de Opal;Artemis Fowl: La colonia perdida;Artemis Fowl: La paradoja del tiempo
+Jordi Sierra i Fabra|JU|1979-2010|SM|Kippel;El último set;Campos de fresas;La memoria de los seres perdidos
+Gloria Fuertes|IN|1950-1990|Cátedra|Obras incompletas~PO;Poeta de guardia~PO;Cangura para todo~IN;Historia de Gloria~BI
+Laura Gallego|JU|2000-2010|SM|Memorias de Idhún: La resistencia;Memorias de Idhún: Tríada;Memorias de Idhún: Panteón;Finis Mundi;Crónicas de la Torre: El valle de los lobos;Donde los árboles cantan;Dos velas para el diablo
+Joanne Harris|N|1999-2012|Salamandra|Chocolat;Cinco cuartos de naranja
+Ken Kesey|N|1962-1964|Anagrama|Alguien voló sobre el nido del cuco
+Joseph Heller|N|1961-1961|Edhasa|Trampa 22
+Kurt Vonnegut|CF|1959-1985|Anagrama|Matadero cinco;Cuna de gato;Desayuno de campeones;Galápagos;Barbazul;Las sirenas de Titán;Bienvenido a la casa del mono~CU
+Ray Bradbury|CF|1950-1962|Minotauro|Crónicas marcianas;El hombre ilustrado~CU;Las doradas manzanas del sol~CU;El vino del estío~N;Sombras verdes, ballena blanca~N;Remedios para melancólicos~CU;La feria de las tinieblas~TR
+Harry Harrison|CF|1966-1972|Martínez Roca|¡Hagan sitio! ¡Hagan sitio!;La rata de acero inoxidable
+Jack Vance|CF|1950-1966|Edhasa|La tierra agonizante~CU;Los Príncipes Demonio;Marune
+Clifford D. Simak|CF|1952-1961|Minotauro|Ciudad;Estación de tránsito
+
