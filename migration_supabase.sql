@@ -7,6 +7,7 @@ BEGIN;
 
 -- 1. ELIMINACIÓN DEFINITIVA DE TABLAS ANTIGUAS
 -- (Se eliminan en orden o en cascada para limpiar el esquema previo)
+DROP TABLE IF EXISTS public.favoritos CASCADE;
 DROP TABLE IF EXISTS public.resenas_libros CASCADE;
 DROP TABLE IF EXISTS public.resenas_bibliotecas CASCADE;
 DROP TABLE IF EXISTS public.publicaciones_libros CASCADE;
@@ -290,6 +291,15 @@ CREATE TABLE public.Auditorias (
     CONSTRAINT chk_auditorias_tabla CHECK (TRIM(TablaAfectada_Auditoria) <> '')
 );
 
+-- 19. TABLA: Favoritos (libros que cada usuario guarda)
+CREATE TABLE public.Favoritos (
+    ID_Favorito            INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    ID_Usuario             UUID NOT NULL REFERENCES public.Usuarios(ID_Usuario) ON DELETE CASCADE,
+    ID_Libro               INTEGER NOT NULL REFERENCES public.Libros(ID_Libro) ON DELETE CASCADE,
+    FechaCreacion_Favorito TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT uq_favoritos_usuario_libro UNIQUE (ID_Usuario, ID_Libro)
+);
+
 -- =====================================================================
 -- ÍNDICES RECOMENDADOS
 -- =====================================================================
@@ -298,6 +308,7 @@ CREATE INDEX idx_libros_categoria ON public.Libros(ID_Categoria);
 CREATE INDEX idx_libros_editorial ON public.Libros(ID_Editorial);
 CREATE INDEX idx_libros_autores_libro ON public.Libros_Autores(ID_Libro);
 CREATE INDEX idx_libros_autores_autor ON public.Libros_Autores(ID_Autor);
+CREATE INDEX idx_favoritos_libro ON public.Favoritos(ID_Libro);
 CREATE INDEX idx_ejemplares_libro ON public.Ejemplares(ID_Libro);
 CREATE INDEX idx_ejemplares_ubicacion ON public.Ejemplares(ID_Ubicacion);
 CREATE INDEX idx_solicitudes_usuario ON public.Solicitudes(ID_Usuario);
@@ -615,6 +626,7 @@ ALTER TABLE public.Prestamos ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.Multas ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.Notificaciones ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.Auditorias ENABLE ROW LEVEL SECURITY;
+ALTER TABLE public.Favoritos ENABLE ROW LEVEL SECURITY;
 
 -- Catálogos públicos de sólo lectura para anon y authenticated
 CREATE POLICY "Lectura publica de estados" ON public.Estados FOR SELECT USING (true);
@@ -648,5 +660,10 @@ CREATE POLICY "Usuarios ven sus multas" ON public.Multas FOR SELECT USING (
 -- Notificaciones: usuarios ven sus propias notificaciones
 CREATE POLICY "Usuarios ven sus notificaciones" ON public.Notificaciones FOR SELECT USING (auth.uid() = ID_Usuario);
 CREATE POLICY "Usuarios actualizan sus notificaciones" ON public.Notificaciones FOR UPDATE USING (auth.uid() = ID_Usuario);
+
+-- Favoritos: cada usuario ve, agrega y quita solo sus propios favoritos
+CREATE POLICY "Usuarios ven sus favoritos" ON public.Favoritos FOR SELECT USING ((SELECT auth.uid()) = ID_Usuario);
+CREATE POLICY "Usuarios crean sus favoritos" ON public.Favoritos FOR INSERT WITH CHECK ((SELECT auth.uid()) = ID_Usuario);
+CREATE POLICY "Usuarios eliminan sus favoritos" ON public.Favoritos FOR DELETE USING ((SELECT auth.uid()) = ID_Usuario);
 
 COMMIT;
